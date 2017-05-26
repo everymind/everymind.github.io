@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/placeholderimage.jpg
+  overlay_image: /assets/images/20170404_142656.jpg
 excerpt: 'This is the home page.'
 ---
 
