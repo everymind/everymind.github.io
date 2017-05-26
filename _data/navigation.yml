@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://www.everymind.online/about/
+    url: /about/
   - title: "Projects"
-    url: https://www.everymind.online/projects/
+    url: /projects/
   - title: "People"
-    url: https://www.everymind.online/people/
+    url: /people/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
