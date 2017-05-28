@@ -6,7 +6,15 @@ main:
     url: /projects/
   - title: "People"
     url: /people/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+# projects
+projects: 
+  - title: "Projects"
+    url: /projects/
+    children: 
+      - title: "Comparative Intelligence"
+        url: /projects/comparative-intelligence-brighton/
+      - title: "Rat Video Game"
+        url: /projects/rat-video-game
+      - title: "Neuroseeker"
+        url: /projects/neuroseeker/
