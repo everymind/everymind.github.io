@@ -4,6 +4,8 @@ permalink: /projects/
 excerpt: "Currently ongoing projects in the Every Mind community."
 header:
   image: /assets/images/20170404_142656.jpg
+categories:
+  - projects
 gallery:
   - url: /projects/comparative-intelligence-brighton/
     image_path: assets/images/20170404_142656.jpg
