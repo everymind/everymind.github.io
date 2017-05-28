@@ -3,26 +3,7 @@ title: "Comparative Intelligence Studies at the Brighton Sea Life Center"
 permalink: /projects/comparative-intelligence-brighton/
 excerpt: "An exhibit/citizen science experiment hosted at the Brighton Sea Life Center, July-August 2017."
 header:
-  image: /assets/images/Cuttles.png
-  teaser: /assets/images/DanbeeKim.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/20170404_142656.jpg
 ---
 
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current research about intelligent behavior across animal species. 
