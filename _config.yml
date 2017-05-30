@@ -256,3 +256,16 @@ defaults:
       share: true
       sidebar: 
         nav: "projects"
+        
+# Collections
+collections: 
+  projects: 
+    output: true
+    permalink: /:collection/:path/
+  people: 
+    output: true
+    permalink: /:collection/:path/
+  resources: 
+    output: true
+    permalink: /:collection/:path/
+  
