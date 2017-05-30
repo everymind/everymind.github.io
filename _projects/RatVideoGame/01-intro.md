@@ -3,7 +3,7 @@ title: "Using video games to study behavior in rats"
 permalink: /projects/rat-video-game/
 excerpt: " "
 header:
-  image: /assets/images/20170404_142656.jpg
+  image: /assets/images/2.png
 categories:
   - projects
 tags:
