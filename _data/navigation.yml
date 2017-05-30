@@ -6,6 +6,8 @@ main:
     url: /projects/
   - title: "People"
     url: /people/
+  - title: "Resources"
+    url: /resources/
 
 # projects
 projects: 
