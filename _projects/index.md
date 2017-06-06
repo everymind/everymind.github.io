@@ -3,7 +3,9 @@ title: "Projects at Every Mind Online"
 permalink: /projects/
 excerpt: "Currently ongoing projects in the Every Mind community."
 header:
-  image: /assets/images/20170404_142656.jpg
+  video: 
+    id: wG_U5m4FShs
+    provider: youtube
 categories:
   - projects
 gallery:
@@ -15,6 +17,6 @@ gallery:
     alt: "Studying motor control using video games"
 ---
 
-From this page you can explore all of the currently on-going experiments in the Every Mind community. 
+From this page you can explore current projects in the Every Mind community. 
 
 {% include gallery caption="Click on a photo to learn more about that project!" %}
