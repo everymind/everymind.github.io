@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Featured contributor"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I contribute to projects on Every Mind Online."
+  name             : Danbee Kim
+  avatar           : "/assets/images/DanbeeKim.jpg"
+  bio              : "Just another millenial trying to save the world, with neuroscience, permaculture, and art."
   location         : "the world"
-  email            :
+  email            : "everymind@protonmail.com"
   uri              :
   bitbucket        :
   codepen          :
