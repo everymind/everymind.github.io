@@ -33,7 +33,7 @@ We try to understand this power by looking into the animal brain while it plays 
  
 When we try to look at the brain, we are faced with a big problem. The brain is made of many cells that work together. We can hear them working, but we can only listen to very few of them at a time. Because of this, we try to build better ways to listen to or look at more cells at the same time, so we can better understand what they are working on.
  
- ## Why are cuttlefish involved?
+## Why are cuttlefish involved?
  
 The animals we usually study in neuroscience keep their brains hidden deep inside of their bodies, and so it's very hard to watch the brain while it is working inside of a moving animal. But this is slightly less true about cuttlefish. Instead of packing most (80-90%) of their nervous cells into a brain the way humans do, most (over 60%) of the cuttlefish nervous cells are out in the body.
  
