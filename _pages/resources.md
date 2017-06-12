@@ -6,9 +6,11 @@ permalink: /resources/
 
 This page is a collection of resources useful to those interested in studying brains at home!
 
-## Build Anything!
+## Learn Anything!
 
 [Instructables](http://www.instructables.com/)
+
+[MIT OpenCourseWare](https://ocw.mit.edu/about/)
 
 ## Hardware and Electronics
 
@@ -26,11 +28,11 @@ This page is a collection of resources useful to those interested in studying br
 
 [Jupyter](https://jupyter.org/)
 
-## Knowledge Treasure Chest
-
-[MIT OpenCourseWare](https://ocw.mit.edu/about/)
-
 ## Ask for help!
+
+[Biology Stack Exchange](https://biology.stackexchange.com/)
+
+[Math Overflow](https://mathoverflow.net/)
 
 [Stack Overflow](https://stackoverflow.com/)
 
@@ -47,3 +49,5 @@ This page is a collection of resources useful to those interested in studying br
 ## Science in the Wild
 
 [Adventure Scientists](http://www.adventurescience.org/)
+
+[National Outdoor Leadership School](https://www.nols.edu/en/)
