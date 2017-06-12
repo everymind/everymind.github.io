@@ -20,6 +20,8 @@ In addition to the knowledge and expertise found here, the resources listed belo
 
 [Chibitronics](https://chibitronics.com/)
 
+[Open Ephys](http://www.open-ephys.org/)
+
 ## Programming Languages
 
 [Arduino](https://www.arduino.cc/)
