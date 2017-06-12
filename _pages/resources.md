@@ -4,9 +4,9 @@ permalink: /resources/
 ---
 {% include toc title="Resources" %}
 
-This page is a collection of resources useful to those interested in studying brains at home!
+In addition to the knowledge and expertise found here, the resources listed below can help you -- they've sure helped us!
 
-## Learn Anything!
+## Shared Knowledge
 
 [Instructables](http://www.instructables.com/)
 
@@ -28,7 +28,7 @@ This page is a collection of resources useful to those interested in studying br
 
 [Jupyter](https://jupyter.org/)
 
-## Ask for help!
+## Ask For Help
 
 [Biology Stack Exchange](https://biology.stackexchange.com/)
 
@@ -36,7 +36,7 @@ This page is a collection of resources useful to those interested in studying br
 
 [Stack Overflow](https://stackoverflow.com/)
 
-## Crowdfunding
+## Fund Your Research
 
 [Crowd.Science](https://crowd.science/)
 
