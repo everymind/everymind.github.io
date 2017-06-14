@@ -4,6 +4,8 @@ author_profile: false
 header:
   overlay_color: "#5e616c"
 excerpt: "Getting more brains involved in the study of brains. "
+intro: 
+  - excerpt: 'Featured Projects'
 feature_row:
   - image_path: assets/images/Brighton_thumbnail.png
     alt: "Collaborative Intelligince at the Brighton Sea Life Center"
@@ -20,5 +22,7 @@ Studying brains is a challenge best met with many tools. We want to collaborate 
 To learn more, check out our featured projects below!
 
 {% include feature_row id="Featured Projects" type="center" %}
+
+{% include feature_row type="left" %}
 
 This website is currently under construction, and will be fully functional after June 30, 2017. Please visit again soon! In the meanwhile, if you have questions, comments, concerns, or ideas, feel free to email us at everymind at protonmail dot com. 
