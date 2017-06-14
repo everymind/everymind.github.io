@@ -13,16 +13,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-<p style="text-align: center;">Are you curious about how our brains understand the world around us? Do you want to explore the similarities and differences between our brains and the brains of other animals? What is the point of having a brain in the first place? How can we best use our brains? 
+<p style="text-align: center;">Are you curious about how our brains understand the world around us? <br/>Do you want to explore the similarities and differences between our brains and the brains of other animals? <br/>What is the point of having a brain in the first place? <br/>How can we best use our brains? </p>
 
-<h2> Here at Every Mind, be part of the neuroscience. </h2>
+<h2 style="text-align: center;"> Here at Every Mind, be part of the neuroscience. </h2>
 
-Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children. We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in structured, well-documented ways.  
-<br/>
+<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children. We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in structured, well-documented ways.<br/>To learn more, check out our featured projects below! </p>
 
-To learn more, check out our featured projects below! </p>
-
-<h2> Featured Projects </h2>
+<h2 style="text-align: center;"> Featured Projects </h2>
 
 {% include feature_row type="left" %}
 
