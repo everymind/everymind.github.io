@@ -30,9 +30,9 @@ But the data we collected using these tools have overwhelmed our ability to anal
 
 ## More Brains Studying Brains
 
-Neuroscience is a huge field. People study everything from cellular mechanisms to whole organism behavior, from millisecond changes to evolutionary adaptations, from electrical signals to chemical cascades. There is so much unknown about the brain, so much we have not measured or formally characterized. 
+Neuroscience is a huge field. People study everything from cellular mechanisms to whole organism behavior, from millisecond changes to evolutionary adaptations, from electrical signals to chemical cascades. There are so many measurements being made of the brain, and yet we still understand so little about how these molecular and cellular interactions become emotions and thoughts and behaviors. 
 
-At the same time, every living human has a brain and uses it -- *all* of it -- every day. We have all been running "neuroscience experiments" our whole lives, from when we first figured out how to walk on two legs to earlier today when we navigated our way out of bed to breakfast. Our intuitions and our behavior are a window into our minds, albeit in an informal and qualitative way. 
+At the same time, every living human has a brain and uses it -- *all* of it -- every day. We have all been running "neuroscience experiments" our whole lives, from when we first figured out how to walk on two legs to earlier today when we navigated our way through morning traffic. Our movements and our habits reflect how we understand the world and how we learn. 
 
 **We think that this experiential knowledge is crucial to our understanding of brains and minds.** Part of involving more humans in our neuroscience process is about sharing our experiences as brain-users, and creating a shared vocabulary to discuss these qualitative, hard-to-measure things about living with a nervous system. 
 
