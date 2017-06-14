@@ -19,7 +19,7 @@ feature_row:
 
 <p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children. <br/>We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in structured, well-documented ways.<br/><br/>To learn more, check out our featured projects below! </p>
 
-<h2 style="text-align: center;"> Featured Projects </h2>
+<h1 style="text-align: center;"> Featured Projects </h1>
 
 {% include feature_row type="left" %}
 
