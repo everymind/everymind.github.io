@@ -17,7 +17,7 @@ feature_row:
 
 <h2 style="text-align: center;"> Here at Every Mind, be part of the neuroscience. </h2>
 
-<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children. <br/>We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in structured, well-documented ways.<br/><br/>To learn more, check out our featured projects below! <br/><br/><br/></p>
+<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children. <br/>We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue.<br/><br/>To learn more, check out our featured projects below! <br/><br/><br/></p>
 
 <h1 style="text-align: center;"> Featured Projects </h1>
 
@@ -26,7 +26,7 @@ feature_row:
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#f2f2f2; clear:center; font:14px Helvetica,Arial,sans-serif;  width:500px;}
+	#mc_embed_signup{background:#f2f2f2; clear:center; font:14px Oxygen,Helvetica,Arial,sans-serif;  width:500px;}
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
