@@ -8,7 +8,7 @@ feature_row:
   - image_path: assets/images/Brighton_thumbnail.png
     alt: "Collaborative Intelligince at the Brighton Sea Life Center"
     title: "Collaborative Intelligence"
-    excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative intelligence research."
+    excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative intelligence research. You can contribute to this project both at the Sea Life Center or online!"
     url: /projects/comparative-intelligence-brighton/
     btn_label: "Learn More"
     btn_class: "btn--inverse"
