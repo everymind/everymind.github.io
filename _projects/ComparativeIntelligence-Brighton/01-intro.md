@@ -20,7 +20,6 @@ We believe that "intelligence" has to do with how you respond when you are surpr
 
 In order to be surprised, you have to be able to guess what is going to happen next, and you also have to decide how sure you are about your guess. When your guess is really wrong, but you felt very sure that you would be right, this moment is surprise, and it is in this moment that your understanding of the world breaks.
 
-
 When you are able to deal with the thing that surprised you, to the point where maybe it doesn't surprise you any longer, you have changed your understanding of the world. Changing yourself in this way is an important part of learning how to learn, and we believe that learning how to learn is an important part of "intelligence". 
 
 ## How can we study it?
@@ -29,9 +28,9 @@ When we want to find out how brains understand the world, how can we study it?
 
 We know that when we look at things, like this cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
  
-We try to understand this power by looking into the animal brain while it plays around in a space that it finds interesting. When things in that space change, animals are surprised and look like they are trying to explain what happened. After that, they move in a different way when they expect that the space around them may change. By looking into their brains before and after the animals change what they expect, we hope to learn more about the brain's power to understand worlds.
- 
-When we try to look at the brain, we are faced with a big problem. The brain is made of many cells that work together. We can hear them working, but we can only listen to very few of them at a time. Because of this, we try to build better ways to listen to or look at more cells at the same time, so we can better understand what they are working on.
+We will try to understand this power by tracking people's eyes while they watch short movies (about 1 minute total) of surprising things happening. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they know and what they expect.
+
+For each person who helps us in this study, we will save a set of movies -- one movie of each eye, and a movie showing where those eyes were looking when surprising things were happening. These movies will be anonymized and shared here, so that anyone interested in analyzing these movies can do so.  
  
 ## Why are cuttlefish involved?
  
