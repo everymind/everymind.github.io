@@ -10,14 +10,14 @@ feature_row:
     title: "Collaborative Intelligence"
     excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative intelligence research."
     url: /projects/comparative-intelligence-brighton/
-    btn_label: "Read More"
+    btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
 <p style="text-align: center;">Are you curious about how our brains understand the world around us? <br/>Do you want to explore the similarities and differences between our brains and the brains of other animals? <br/>What is the point of having a brain in the first place? <br/>How can we best use our brains? </p>
 
 <h2 style="text-align: center;"> Here at Every Mind, be part of the neuroscience. </h2>
 
-<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children. <br/>We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in structured, well-documented ways.<br/><br/>To learn more, check out our featured projects below! </p>
+<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children. <br/>We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in structured, well-documented ways.<br/><br/>To learn more, check out our featured projects below! <br/><br/><br/></p>
 
 <h1 style="text-align: center;"> Featured Projects </h1>
 
