@@ -17,7 +17,7 @@ feature_row:
 
 <h2 style="text-align: center;"> Here at Every Mind, be part of the neuroscience. </h2>
 
-<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also **artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.** <br/>We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue.<br/><br/>To learn more, check out our featured projects below! <br/><br/><br/></p>
+<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> <br/>We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue.<br/><br/>To learn more, check out our featured projects below! <br/><br/><br/></p>
 
 <h1 style="text-align: center;"> Featured Projects </h1>
 
