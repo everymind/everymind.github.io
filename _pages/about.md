@@ -15,7 +15,7 @@ gallery:
     alt: "London Spinning @"
     title: "London Spinning @"
 ---
-{% include toc title="About Every Mind" %}
+{% include toc icon="group" title="About Every Mind" %}
 
 ## Finding Patterns in Chaos
 
