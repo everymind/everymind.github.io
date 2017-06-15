@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : Danbee Kim
-  avatar           : "/assets/images/DanbeeKim.jpg"
-  bio              : "Just another millenial trying to save the world, with neuroscience, cuttlefish, and art."
+  name             : Every Mind
+  avatar           : "/assets/images/20170315_LondonArt_small.png"
+  bio              : "An online community for people interested in collaborating across fields to better study how brains understand the world."
   location         : "the world"
   email            : "everymind@protonmail.com"
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "everymindonline"
   vine             :
   weibo            :
   xing             :
