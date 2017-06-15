@@ -40,3 +40,15 @@ The animals we usually study in neuroscience keep their brains hidden deep insid
 Cuttlefish neurons control special cells in the skin that can change the cuttlefish's form, color and feel. One type of special cell is called a "chromatophore" - it's like a tiny bag full of color, with muscles holding onto it on all sides. Each muscle has 3 or 4 neurons wrapped around it. When the muscles are relaxed, the bag of color is closed tight and can't be seen; but when the neurons tell the muscles to pull, the bag of color can grow up to five times larger, making the skin in that area change color.
  
 The cuttlefish's skin has over 20 million chromatophores, each controlled by twenty or more neurons. This means that over a hundred million neurons are working together to control how a cuttlefish appears to other animals. Given that, we believe that looking carefully at cuttlefish skin while it moves through the world could be a way to watch both single neurons and large groups of neurons at the same time without cutting open any part of the animal.
+
+## Acknowledgements
+
+This project is led by Danbee Kim (Sainsbury Wellcome Center for Neural Circuits and Behaviour) in close collaboration with Kerry Perkins (Brighton Sea Life Center). 
+
+Many additional thanks to: 
+
+* Clive Ramble and Hazel Grenade (Sol Vin) for designing and manufacturing the outer casing for the interactive movie-watching station
+
+* Goncalo Lopes and Dario Quinones for their assistance with the eyetracking system
+
+* Daniel Osorio (Sussex University) for initiating this collaboration
