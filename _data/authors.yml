@@ -1,3 +1,10 @@
+Every Mind: 
+  name: "Every Mind" 
+  email: "everymind@protonmail.com"
+  bio: "An online community for collaborations to better digest and express our knowledge of how brains work."
+  avatar: ""
+  twitter: "everymindonline"
+  
 Danbee Kim:
   name: "Danbee Kim"
   uri: "http://danbeekim.org"
@@ -11,3 +18,9 @@ Lorenza Calcaterra:
   email: ""
   bio: ""
   avatar: "/assets/images/lory.JPG"
+  
+Joana Neto:
+  name: "Joana Neto"
+  email: ""
+  bio: ""
+  avatar: ""
