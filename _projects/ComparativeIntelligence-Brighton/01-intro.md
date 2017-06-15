@@ -11,7 +11,7 @@ tags:
   - Brighton Sea Life Center
 ---
 
-{% include toc title="Comparative Intelligence" %}
+{% include toc icon="anchor" title="Comparative Intelligence" %}
 
 During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current research about intelligent behavior across animal species. 
 
