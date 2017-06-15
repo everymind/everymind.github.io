@@ -251,7 +251,7 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       comments: true
       share: true
       sidebar: 
