@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /people/
+author_profile: true
 header: 
   image: /assets/images/KampffLab_WhoWeAre_EveryMind_header.png
 ---
