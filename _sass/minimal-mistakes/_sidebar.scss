@@ -169,7 +169,7 @@
   @include breakpoint($large) {
     display: block;
     position: relative;
-    margin: 0;
+    margin-bottom: 10px;
     padding: 0;
     border: 0;
     background: transparent;
