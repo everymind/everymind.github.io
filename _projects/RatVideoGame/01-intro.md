@@ -2,7 +2,7 @@
 title: "Using video games to study behavior in rats"
 permalink: /projects/rat-video-game/
 excerpt: " "
-author: Lory Calcaterra
+author: Lorenza Calcaterra
 header:
   image: /assets/images/Lory_ratVidGame_header.png
 categories:
