@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /about/
-author_profile: true
 gallery: 
   - url: https://www.ucl.ac.uk/swc
     image_path: /assets/images/SWClogo.png
