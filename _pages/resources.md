@@ -1,8 +1,9 @@
 ---
 layout: single
 permalink: /resources/
+author_profile: true
 ---
-{% include toc title="Resources" %}
+{% include toc icon="hand-spock-o" title="Resources" %}
 
 In addition to the knowledge and expertise found here, the resources listed below can help you -- they've sure helped us!
 
