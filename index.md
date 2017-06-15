@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 header:
-  overlay_color: "#9891B5"
+  overlay_color: "$primary-color"
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/Brighton_thumbnail.png
