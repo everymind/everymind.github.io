@@ -11,7 +11,7 @@ main:
 
 # projects
 projects: 
-  - title: "Projects"
+  - title: "EveryMind Projects"
     url: /projects/
     children: 
       - title: "Comparative Intelligence"
