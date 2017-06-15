@@ -6,8 +6,8 @@ header:
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/Brighton_thumbnail.png
-    alt: "Comparative, Collaborative Intelligince at the Brighton Sea Life Center"
-    title: "Comparative, Collaborative Intelligence"
+    alt: "Comparative Intelligince at the Brighton Sea Life Center"
+    title: "Comparative Intelligence"
     excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative intelligence research. You can contribute to this project both at the Sea Life Center or online!"
     url: /projects/comparative-intelligence-brighton/
     btn_label: "Learn More"
