@@ -10,9 +10,9 @@ header:
 categories:
   - projects
 gallery:
-  - url: /projects/comparative-intelligence-brighton/
+  - url: /projects/comparative-neuroscience-brighton/
     image_path: assets/images/Brighton_thumbnail.png
-    alt: "Comparative Intelligence at the Brighton Sea Life Center"
+    alt: "Comparative Neuroscience at the Brighton Sea Life Center"
   - url: /projects/rat-video-game/
     image_path: assets/images/Lory_ratVidGame_thumbnail.png
     alt: "Studying motor control using video games"
