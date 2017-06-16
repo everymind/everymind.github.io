@@ -1,6 +1,6 @@
 ---
-title: "Comparative Intelligence Studies at the Brighton Sea Life Center"
-permalink: /projects/comparative-intelligence-brighton/
+title: "Comparative Neuroscience Studies at the Brighton Sea Life Center"
+permalink: /projects/comparative-neuroscience-brighton/
 excerpt: "An exhibit/citizen science experiment hosted at the Brighton Sea Life Center, July-August 2017."
 author: Danbee Kim
 header:
@@ -11,13 +11,13 @@ tags:
   - Brighton Sea Life Center
 ---
 
-{% include toc icon="anchor" title="Comparative Intelligence" %}
+{% include toc icon="anchor" title="Comparative Neuroscience" %}
 
-During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current research about intelligent behavior across animal species. 
+During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current research comparing nervous systems across animal species by looking for "intelligent behavior". 
 
-## What is "intelligence"?
+## What is "intelligent behavior"?
 
-We believe that "intelligence" has to do with how you respond when you are surprised, or how you respond to something you did not expect.
+We believe that "intelligent behavior" has to do with how you respond when you are surprised, or how you respond to something you did not expect.
 
 In order to be surprised, you have to be able to guess what is going to happen next, and you also have to decide how sure you are about your guess. When your guess is really wrong, but you felt very sure that you would be right, this moment is surprise, and it is in this moment that your understanding of the world breaks.
 
