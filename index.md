@@ -12,16 +12,6 @@ feature_row:
     url: /projects/comparative-intelligence-brighton/
     btn_label: "Learn More"
     btn_class: "btn--inverse"
-    
-<style>
-blockquote { 
-    display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 40px;
-    margin-right: 40px;
-}
-</style>
 ---
 <h2 style="text-align: center;"> What is a mind for? </h2>
 
