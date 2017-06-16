@@ -3,10 +3,6 @@ title: "Projects at Every Mind Online"
 permalink: /projects/
 excerpt: "Currently ongoing projects in the Every Mind community."
 author: Every Mind
-header:
-  video: 
-    id: wG_U5m4FShs
-    provider: youtube
 categories:
   - projects
 gallery:
