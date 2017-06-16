@@ -6,10 +6,10 @@ header:
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/Brighton_thumbnail.png
-    alt: "Comparative Intelligince at the Brighton Sea Life Center"
-    title: "Comparative Intelligence"
-    excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative intelligence research. You can contribute to this project both at the Sea Life Center or online!"
-    url: /projects/comparative-intelligence-brighton/
+    alt: "Comparative Neuroscience at the Brighton Sea Life Center"
+    title: "Comparative Neuroscience"
+    excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative neuroscience research. You can contribute to this project both at the Sea Life Center or online!"
+    url: /projects/comparative-neuroscience-brighton/
     btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
@@ -53,4 +53,4 @@ As this essay has shown, our knowledge of intelligence has been extracted from c
 
 <!--End mc_embed_signup-->
 
-This website is currently under construction, and will be fully functional after June 30, 2017. Please visit again soon! In the meanwhile, if you have questions, comments, concerns, or ideas, feel free to email us at everymind at protonmail dot com. 
+<p>This website is currently under construction, and will be fully functional after June 30, 2017. Please visit again soon! In the meanwhile, if you have questions, comments, concerns, or ideas, feel free to email us at everymind at protonmail dot com. </p>
