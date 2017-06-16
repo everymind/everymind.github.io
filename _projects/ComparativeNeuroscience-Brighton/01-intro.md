@@ -13,9 +13,9 @@ tags:
 
 {% include toc icon="anchor" title="Comparative Neuroscience" %}
 
-During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current research comparing nervous systems across animal species by looking for "intelligent behavior". 
+During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of "intelligent behavior" by comparing the nervous systems of many different animal species. 
 
-## What is "intelligent behavior"?
+## What do we mean by "intelligent behavior"?
 
 We believe that "intelligent behavior" has to do with how you respond when you are surprised, or how you respond to something you did not expect.
 
