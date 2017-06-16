@@ -254,8 +254,6 @@ defaults:
       author_profile: true
       comments: true
       share: true
-      sidebar: 
-        nav: "projects"
         
 # Collections
 collections: 
