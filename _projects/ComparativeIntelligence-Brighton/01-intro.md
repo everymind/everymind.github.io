@@ -49,6 +49,10 @@ Many additional thanks to:
 
 * Clive Ramble and Hazel Grenade (Sol Vin) for designing and manufacturing the outer casing for the interactive movie-watching station
 
-* Goncalo Lopes and Dario Quinones for their assistance with the eyetracking system
+* Goncalo Lopes and Dario Quinones for their work on the eyetracking system
+
+* Ian Blaney and Karen Fergus for handling logistical and financial details and emergencies
+
+* Martyn Stopps Robb Barrett for assistance with our prototyping process
 
 * Daniel Osorio (Sussex University) for initiating this collaboration
