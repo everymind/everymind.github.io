@@ -25,7 +25,7 @@ Neuroscience is a huge field. People study everything from cellular mechanisms t
 
 At the same time, every living human has a brain and uses it -- *all* of it -- every day. We have all been running "neuroscience experiments" our whole lives, from when we first figured out how to walk on two legs to earlier today when we navigated our way through morning traffic. Our movements and our habits reflect how we understand the world and how we learn. 
 
-**We think that this experiential knowledge is crucial to our understanding of brains and minds.** Part of involving more humans in our neuroscience process is about sharing our experiences as brain-users, and creating a shared vocabulary to discuss these qualitative, hard-to-measure things about living with a nervous system. 
+**We think that this experiential knowledge is crucial to our understanding of brains and minds.** Part of involving more humans in our neuroscience process is about sharing our experiences as brain-users, and creating a shared vocabulary to discuss these qualitative, hard-to-measure things about living with a nervous system. We believe this shared vocabulary will help us make connections between our life experiences and the data we collect from our neuroscience experiments. 
 
 ## From the Father of Cybernetics
 
