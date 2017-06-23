@@ -80,4 +80,4 @@ The cuttlefish's skin has over 20 million chromatophores, each controlled by twe
 | Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
 
-Many additional thanks to Daniel Osorio (Sussex University) for initiating this collaboration.
+Many additional thanks to Adam Kampff (Sainsbury Wellcome Center for Neural Circuits and Behaviour) for support and mentorship throughout this project, and to Daniel Osorio (Sussex University) for initiating the collaboration with Brighton Sea Life.
