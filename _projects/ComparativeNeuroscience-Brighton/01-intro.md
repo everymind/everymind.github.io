@@ -74,7 +74,7 @@ The cuttlefish's skin has over 20 million chromatophores, each controlled by twe
 | Hazel Grenade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
 | Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
-| Fedor Lischenko  | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
+| [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
 | Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
