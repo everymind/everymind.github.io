@@ -66,16 +66,18 @@ The cuttlefish's skin has over 20 million chromatophores, each controlled by twe
 
 ## Acknowledgements
 
-This project is led by Danbee Kim (Sainsbury Wellcome Center for Neural Circuits and Behaviour) in close collaboration with Kerry Perkins (Brighton Sea Life Center). 
+| Production Staff |                   |                                                              |
+| --------         | ------            | ------                                                       |
+| Danbee Kim       | Project Co-Lead   | Sainsbury Wellcome Center for Neural Circuits and Behaviour  |
+| Kerry Perkins    | Project Co-Lead   | Brighton Sea Life Center                                     |
+| Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
+| Hazel Grenade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
+| Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
+| Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
+| Fedor Lischenko  | Video content contributor |     |
+| Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
+| Karen Fergus     | Administrative assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
+| Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
+| Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
 
-Many additional thanks to: 
-
-* Clive Ramble and Hazel Grenade (Sol Vin) for designing and manufacturing the outer casing for the interactive movie-watching station
-
-* Goncalo Lopes and Dario Quinones for their work on the eyetracking system
-
-* Ian Blaney and Karen Fergus for handling logistical and financial details and emergencies
-
-* Martyn Stopps Robb Barrett for assistance with our prototyping process
-
-* Daniel Osorio (Sussex University) for initiating this collaboration
+Many additional thanks to Daniel Osorio (Sussex University) for initiating this collaboration.
