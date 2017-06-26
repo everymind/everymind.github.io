@@ -75,7 +75,7 @@ The cuttlefish's skin has over 20 million chromatophores, each controlled by twe
 | Production Staff |                   |                                                              |
 | ------           | ------            | ------                                                       |
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
-| Kerry Perkins    | Project Co-Lead   | Brighton Sea Life Center                                     |
+| Kerry Perkins    | Project Co-Lead   | Brighton Sea Life Centre                                     |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Hazel Grenade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
