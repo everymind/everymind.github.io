@@ -39,7 +39,7 @@ This means that differences in test scores do not capture everything we want to 
   2. remembering information that seems relevant, and
   3. playing with the problem in your head in order to find a solution.
  
-If thinking is a process, then _intelligence_ can be described as a combination of a person's "power" for thinking, plus learning and experience, which provide knowledge of how to use one's "power" and access to useful information. This means that if you are facing a new kind of problem, finding a solution depends on your ability to create new representations in your head. As you gain learning and experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
+If thinking is a process, then _intelligence_ can be described as a combination of several things. One of them is a person's "power" for thinking, or how well they can use the thinking process described above. The others are learning and experience, which provide knowledge of how to use one's thinking power and access to useful information. This means that if you are facing a new kind of problem, finding a solution depends on your ability to create new representations in your head. As you learn and gain experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
 
 While this viewpoint makes _intelligence_ harder to summarise with numbers, it does a better job of explaining the differences in the ways that humans think.
  
@@ -75,16 +75,16 @@ The cuttlefish's skin has over 20 million chromatophores, each controlled by twe
 
 | Production Staff |                   |                                                              |
 | ------           | ------            | ------                                                       |
-| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Center for Neural Circuits and Behaviour  |
+| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | Brighton Sea Life Center                                     |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Hazel Grenade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
-| Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
-| Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
+| Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
-| Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
-| Karen Fergus     | Administrative assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
-| Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
-| Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Center for Neural Circuits and Behaviour |
+| Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
-Many additional thanks to Adam Kampff (Sainsbury Wellcome Center for Neural Circuits and Behaviour) for support and mentorship throughout this project, and to Daniel Osorio (Sussex University) for initiating the collaboration with Brighton Sea Life.
+Many additional thanks to Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project, and to Daniel Osorio (Sussex University) for initiating the collaboration with Brighton Sea Life.
