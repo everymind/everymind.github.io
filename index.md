@@ -17,7 +17,7 @@ feature_row:
 
 <p> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems. You could say that a mind's purpose is to give us all of the abilities we need in order to "act intelligently", or to act with "cognitive competence".</p>
 
-<h3>So what is "intelligence", and why does it matter? </h3>
+<h2>So what is "intelligence", and why does it matter? </h2>
 
 <p> An excellent place to start is this article by Earl Hunt, <a href="http://www.psych.utoronto.ca/users/reingold/courses/intelligence/cache/Hunt-full.html">"The Role of Intelligence in Modern Society"</a>, published in the summer of 1995 by American Scientist. If you're in a rush, let our quotation of the final two paragraphs entice you to make the time to read the article in full (it's totally worth it): 
 <blockquote cite="http://www.psych.utoronto.ca/users/reingold/courses/intelligence/cache/Hunt-full.html">
@@ -26,7 +26,11 @@ As this essay has shown, our knowledge of intelligence has been extracted from c
 
 <h2>How can we find the answers? </h2>
 
-<p>Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. To learn more, check out our featured projects below! <br/><br/><br/></p>
+<p>Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. <br/><br/>
+
+We call this way of doing science a <b>massively multiplayer online scientific collaboration, or "MMOSC"</b>. <br/><br/>
+
+To learn more, check out our featured projects below! <br/><br/><br/></p>
 
 <h1> Featured Projects </h1>
 
