@@ -31,15 +31,15 @@ Often _intelligence_ is used to describe how well we do on tests (sometimes call
   2. "Crystallized intelligence", or using what one already know from past experience to solve a problem; and
   3. "Visual-spatial reasoning", or being able to visualize and play with a problem in your head.
  
-If _intelligence_ is a single thing that a person can become very good at (sometimes called "general intelligence"), then anything that changes a person's score on one type of test should have a similar effect on any of the other two types. But it turns out that this is not true. Take aging, for example. Test scores in "fluid intelligence" tend to decrease as a person gets older, while test scores in "crystallized intelligence" tend to stay the same or even increase. So while test scores might tell you who can learn a job faster or more easily, it doesn't tell you how well a person will perform once they've learned the job.
+If _intelligence_ is a single thing that can be measured and improved on (sometimes called "general intelligence"), then anything that changes a person's score on one type of test should have a similar effect on any of the other two types. But it turns out that this is not true. Take aging, for example. On average, test scores in "fluid intelligence" tend to decrease as a person gets older, while test scores in "crystallized intelligence" tend to stay the same or even increase. So while test scores might tell you who can learn a job faster or more easily, test scores don't tell you how well a person will perform once they've learned the job.
  
 This means that differences in test scores do not help explain differences in the ways that we think. So scientists came up with another way to think about _intelligence_, based on more general ideas about the nature of thinking (sometimes called the "cognitive-psychology view"). This point of view assumes that thinking is the process of:
  
-  1. visualizing the current problem in your head,
+  1. representing the structure and relationships of the current problem in your head,
   2. remembering information that seems relevant, and
-  3. playing with the visualization in your head in order to solve the problem.
+  3. playing with the problem in your head in order to find a solution.
  
-If thinking is a process, then _intelligence_ can be described as a combination of a person's "power" for thinking, plus learning and experience, which provide knowledge of how to use one's "power" and access to useful information. This means that if you are facing a new kind of problem, finding a solution depends on your ability to create new visualisations in your head. As you gain learning and experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
+If thinking is a process, then _intelligence_ can be described as a combination of a person's "power" for thinking, plus learning and experience, which provide knowledge of how to use one's "power" and access to useful information. This means that if you are facing a new kind of problem, finding a solution depends on your ability to create new representations in your head. As you gain learning and experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
 
 While this viewpoint makes _intelligence_ harder to summarise with numbers, it does a better job of explaining the differences in the ways that humans think.
  
@@ -49,7 +49,7 @@ The concept of _intelligence_ is actually quite political, especially when tryin
  
 Even though the scientific community has shown that test scores don't explain how different ways of thinking affect everyday performance, it's easy to use standardized tests to place people in schools and in jobs. This means that the education and economic opportunities available to a person are often determined by outdated and biased measures, in large part because the scientific community has not yet validated a new way to understand differences in the ways we think. 
 
-And no matter how we measure these differences, it's clear that the increasingly technological nature of our lives have increased the rewards for the capable while at the same time increasing the punishment for those who can't keep up, meaning that the policies that dictate how to allocate education and economic opportunities have profound effects on people's lives. This means that scientific progress in our understanding of _intelligence_ is an important part of building a future that welcomes and respects everyone. 
+And no matter how we measure these differences, it's clear that the increasingly technological nature of our lives have increased the rewards for those who can exploit technology while at the same time increasing the punishment for those who can't, meaning that the policies that dictate how to allocate education and economic opportunities have profound effects on people's lives. This means that progress in our scientific understanding of _intelligence_ and its characterisation is an important part of building a future that welcomes and respects everyone. 
 
 ## How can we study it?
 
