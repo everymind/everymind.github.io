@@ -17,11 +17,9 @@ During the summer of 2017, the Brighton Sea Life Center will host an interactive
 
 ## What do we mean by "intelligent behaviour"?
 
-We believe that _intelligent behaviour_ has to do with how you respond when you are surprised, or how you respond to something you did not expect.
+We believe that _intelligent behaviour_ has to do with how you create and play with your expectations about the world around you in order to solve problems. We also believe that there is a difference between the kind of _intelligence_ that is relevant for humans in industrialised societies, and the abstract characteristics that define the general idea of _intelligence_, which should apply no matter who is using it. 
 
-In order to be surprised, you have to be able to guess what is going to happen next, and you also have to decide how sure you are about your guess. When your guess is really wrong, but you felt very sure that you would be right, this moment is surprise, and it is in this moment that your understanding of the world breaks.
-
-When you are able to deal with the thing that surprised you, to the point where maybe it doesn't surprise you any longer, you have changed your understanding of the world. Changing yourself in this way is an important part of learning how to learn, and we believe that learning how to learn is an important part of _intelligence_. 
+This belief is strengthened by the fact that cephalopods, marine animals whose nervous systems are completely different from ours, are able to solve many problems that we once thought only humans could solve. So we want to design experiments that can pose problems to both humans and cuttlefish in more or less the same way, without relying on human language. In this way, we can compare the solutions given by humans versus cuttlefish. If a certain strategy or mental tool for problem-solving is important for **both** species, it's likely that such a strategy or tool may be a **general principle** of _intelligence_. 
 
 ## A history of "intelligence": test scores vs. "power" and learning
 
@@ -39,7 +37,8 @@ This means that differences in test scores do not capture everything we want to 
   2. remembering information that seems relevant, and
   3. playing with the problem in your head in order to find a solution.
  
-If thinking is a process, then _intelligence_ can be described as a combination of several things. One of them is a person's "power" for thinking, or how well they can use the thinking process described above. The others are learning and experience, which provide knowledge of how to use one's thinking power and access to useful information. This means that if you are facing a new kind of problem, finding a solution depends on your ability to create new representations in your head. As you learn and gain experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
+If thinking is a process, then _intelligence_ can be described as a combination of several things. One of them is a person's "power" for thinking, or how well they can use the thinking process described above. The others are learning and experience, which provide knowledge of how to use one's thinking power and access to useful information. This means that if you are facing a 
+new kind of problem, finding a solution depends on your ability to create new representations in your head. As you learn and gain experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
 
 While this viewpoint makes _intelligence_ harder to summarise with numbers, it does a better job of explaining the differences in the ways that humans think.
  
@@ -57,7 +56,9 @@ When we want to find out how brains understand the world, how can we study it?
 
 When we encounter familiar objects, like a cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
  
-We will try to understand this power by tracking people's eyes while they watch short movies of surprising things happening. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they know and what they expect.
+We will try to understand this power by tracking people's eyes while they watch short movies of surprising or unexpected things happening. In order to be surprised, you have to be able to guess what is going to happen next, and you also have to decide how sure you are about your guess. When your guess is really wrong, but you felt very sure that you would be right, this moment is surprise, and it is in this moment that your understanding of the world breaks. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they expect. 
+
+When you are able to deal with the thing that surprised you, to the point where maybe it doesn't surprise you any longer, you have changed your understanding of the world. Changing yourself in this way is an important part of learning how to learn, and we believe that learning how to learn is an important part of _intelligence_. 
 
 For each person who helps us in this study, we will save a set of movies -- one movie of each eye, and a movie showing where those eyes were looking when surprising things were happening. These movies will be anonymised and shared here, so that anyone interested in analysing these movies can do so. 
 
