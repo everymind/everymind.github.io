@@ -54,15 +54,13 @@ And no matter how we measure these differences, it's clear that the increasingly
 
 When we want to find out how brains understand the world, how can we study it?
 
-When we encounter familiar objects, like a cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
+When we encounter familiar objects, like a cup of water, we know what to expect from them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
  
 We will try to understand this power by tracking people's eyes while they watch short movies of surprising or unexpected things happening. In order to be surprised, you have to be able to guess what is going to happen next, and you also have to decide how sure you are about your guess. When your guess is really wrong, but you felt very sure that you would be right, this moment is surprise, and it is in this moment that your understanding of the world breaks. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they expect. 
 
-When you are able to deal with the thing that surprised you, to the point where maybe it doesn't surprise you any longer, you have changed your understanding of the world. Changing yourself in this way is an important part of learning how to learn, and we believe that learning how to learn is an important part of _intelligence_. 
-
 For each person who helps us in this study, we will save a set of movies -- one movie of each eye, and a movie showing where those eyes were looking when surprising things were happening. These movies will be anonymised and shared here, so that anyone interested in analysing these movies can do so. 
 
-Tracking the movements of the eyes is just one way to study minds non-invasively. There are many aspects of behaviour that can give us clues about how a person is learning about the world around them. 
+Tracking the movements of the eyes is just one way to study minds non-invasively. There are many aspects of behaviour that can clue us in to a person's expectations about the world around them, as long as we can recognize the moment of surprise. When surprise goes away, this means that you've figured out how to deal with the thing that surprised you, and you've changed your understanding of the world. Changing yourself in this way is an important part of learning how to learn, and we believe that learning how to learn is an important part of _intelligence_. 
  
 ## Why are cuttlefish involved?
  
