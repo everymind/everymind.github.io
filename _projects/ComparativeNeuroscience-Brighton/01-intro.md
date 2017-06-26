@@ -49,7 +49,7 @@ The concept of _intelligence_ is actually quite political, especially when tryin
  
 Even though the scientific community has shown that test scores don't explain how different ways of thinking affect everyday performance, it's easy to use standardized tests to place people in schools and in jobs. This means that the education and economic opportunities available to a person are often determined by outdated and biased measures, in large part because the scientific community has not yet validated a new way to understand differences in the ways we think. 
 
-And no matter how we measure these differences, it's clear that the increasingly technological nature of our lives have increased the rewards for the capable while at the same time increasing the punishment for those who can't keep up, meaning that the policies that dictate how to allocate education and economic opportunities have profound effects on people's lives. This means that scientific progress in our understanding of _intelligence_ is an important part of building a fair and just future. 
+And no matter how we measure these differences, it's clear that the increasingly technological nature of our lives have increased the rewards for the capable while at the same time increasing the punishment for those who can't keep up, meaning that the policies that dictate how to allocate education and economic opportunities have profound effects on people's lives. This means that scientific progress in our understanding of _intelligence_ is an important part of building a future that welcomes and respects everyone. 
 
 ## How can we study it?
 
