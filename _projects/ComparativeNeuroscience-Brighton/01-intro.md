@@ -29,7 +29,7 @@ Often _intelligence_ is used to describe how well we do on tests (sometimes call
  
   1. "Fluid intelligence", or figuring out solutions to new and unusual problems;
   2. "Crystallized intelligence", or using what one already know from past experience to solve a problem; and
-  3. "Visual-spatial reasoning", or being able to visualize and play with a problem in your head.
+  3. "Visual-spatial reasoning", or being able to represent the structure and relationships of a problem and then play with it in your head.
  
 If _intelligence_ is a single thing that can be measured and improved on (sometimes called "general intelligence"), then anything that changes a person's score on one type of test should have a similar effect on any of the other two types. But it turns out that this is not true. Take aging, for example. On average, test scores in "fluid intelligence" tend to decrease as a person gets older, while test scores in "crystallized intelligence" tend to stay the same or even increase. So while test scores might tell you who can learn a job faster or more easily, test scores don't tell you how well a person will perform once they've learned the job.
  
