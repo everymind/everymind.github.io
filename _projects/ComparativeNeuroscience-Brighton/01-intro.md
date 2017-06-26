@@ -33,7 +33,7 @@ Often _intelligence_ is used to describe how well we do on tests (sometimes call
  
 If _intelligence_ is a single thing that can be measured and improved on (sometimes called "general intelligence"), then anything that changes a person's score on one type of test should have a similar effect on any of the other two types. But it turns out that this is not true. Take aging, for example. **On average**, test scores in "fluid intelligence" tend to decrease as a person gets older, while **on average**, test scores in "crystallised intelligence" tend to stay the same or even increase. So while test scores might tell you who could learn a job faster or more easily, test scores can't tell you how well a person will perform once they've learned the job.
  
-This means that differences in test scores do not help explain differences in the ways that we think. So scientists came up with another way to think about _intelligence_, based on more general ideas about the nature of thinking (sometimes called the "cognitive-psychology view"). This point of view assumes that thinking is the process of:
+This means that differences in test scores do not capture everything we want to know about the differences in the ways that we think. So scientists came up with another way to think about _intelligence_, based on more general ideas about the nature of thinking (sometimes called the "cognitive-psychology view"). This point of view assumes that thinking is the process of:
  
   1. representing the structure and relationships of the current problem in your head,
   2. remembering information that seems relevant, and
