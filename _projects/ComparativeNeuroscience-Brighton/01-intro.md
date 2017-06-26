@@ -39,7 +39,9 @@ This means that differences in test scores do not help explain differences in th
   2. remembering information that seems relevant, and
   3. playing with the visualization in your head in order to solve the problem.
  
-If thinking is a process, then _intelligence_ can be described as a combination of a person's "power" for thinking, plus learning and experience, which provide knowledge of how to use one's "power" and access to useful information. This means that if you are facing a new kind of problem, finding a solution depends on your ability to create new visualisations in your head. As you gain learning and experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. While this viewpoint makes _intelligence_ harder to summarise with numbers, it does a better job of explaining the differences in the ways that humans think.
+If thinking is a process, then _intelligence_ can be described as a combination of a person's "power" for thinking, plus learning and experience, which provide knowledge of how to use one's "power" and access to useful information. This means that if you are facing a new kind of problem, finding a solution depends on your ability to create new visualisations in your head. As you gain learning and experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
+
+While this viewpoint makes _intelligence_ harder to summarise with numbers, it does a better job of explaining the differences in the ways that humans think.
  
 ## Why does it matter?
  
