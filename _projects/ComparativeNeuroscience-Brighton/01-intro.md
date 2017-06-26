@@ -17,7 +17,7 @@ During the summer of 2017, the Brighton Sea Life Center will host an interactive
 
 ## What do we mean by "intelligent behaviour"?
 
-We believe that _intelligent behaviour_ has to do with how you create and play with your expectations about the world around you in order to solve problems. We also believe that there is a difference between the kind of _intelligence_ that is relevant for humans in industrialised societies, and the abstract characteristics that define the general idea of _intelligence_, which should apply no matter who is using it. 
+We believe that _intelligent behaviour_ has to do with how you create and play with your expectations about the world around you in order to solve problems. We also believe that there is a difference between the kind of _intelligence_ that is relevant for humans in industrialised societies, and the abstract characteristics that define the general idea of _intelligence_, which should apply no matter the context or who is using it. 
 
 This belief is strengthened by the fact that cephalopods, marine animals whose nervous systems are completely different from ours, are able to solve many problems that we once thought only humans could solve. So we want to design experiments that can pose problems to both humans and cuttlefish in more or less the same way, without relying on human language. In this way, we can compare the solutions given by humans versus cuttlefish. If a certain strategy or mental tool for problem-solving is important for **both** species, it's likely that such a strategy or tool may be a **general principle** of _intelligence_. 
 
