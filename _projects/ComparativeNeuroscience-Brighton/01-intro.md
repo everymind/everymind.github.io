@@ -53,7 +53,7 @@ And no matter how we measure these differences, it's clear that the increasingly
 
 When we want to find out how brains understand the world, how can we study it?
 
-We know that when we look at things, like this cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
+When we look at things, like this cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
  
 We will try to understand this power by tracking people's eyes while they watch short movies (about 1 minute total) of surprising things happening. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they know and what they expect.
 
