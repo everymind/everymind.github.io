@@ -43,8 +43,11 @@ If thinking is a process, then _intelligence_ can be described as a combination 
  
 ## Why does it matter?
  
-Even though we know test scores don't explain how different ways of thinking affect everyday performance, test scores continue to be used to determine the education and job opportunities available to a person. And regardless of how we measure differences in _intelligence_, it's clear that the increasingly technological nature of our lives have increased the rewards for the capable while at the same time increasing the punishment for those who can't keep up. So in an industrialized society, where economic roles dominate, extended family live scattered far from each other, and those with social power can afford to ignore those without social power, how we deal with differences in _intelligence_ has a profound effect on people's lives. 
+The concept of _intelligence_ is actually quite political, especially when trying to explain its scientific underpinnings. 
+ 
+Even though the scientific community has shown that test scores don't explain how different ways of thinking affect everyday performance, it's easy to use standardized tests to place people in schools and in jobs. This means that the education and economic opportunities available to a person are often determined by outdated and biased measures, in large part because the scientific community has not yet validated a new way to understand differences in the ways we think. 
 
+And no matter how we measure these differences, it's clear that the increasingly technological nature of our lives have increased the rewards for the capable while at the same time increasing the punishment for those who can't keep up, meaning that the policies that dictate how to allocate education and economic opportunities have profound effects on people's lives. This means that scientific progress in our understanding of _intelligence_ is an important part of building a fair and just future. 
 
 ## How can we study it?
 
