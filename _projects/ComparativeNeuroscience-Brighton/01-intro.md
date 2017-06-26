@@ -55,11 +55,13 @@ And no matter how we measure these differences, it's clear that the increasingly
 
 When we want to find out how brains understand the world, how can we study it?
 
-When we look at things, like this cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
+When we encounter familiar objects, like a cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. One way to study something is to try and build it. As of right now, we do not know how to give this power to imagine to things that we make.
  
-We will try to understand this power by tracking people's eyes while they watch short movies (about 1 minute total) of surprising things happening. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they know and what they expect.
+We will try to understand this power by tracking people's eyes while they watch short movies of surprising things happening. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they know and what they expect.
 
-For each person who helps us in this study, we will save a set of movies -- one movie of each eye, and a movie showing where those eyes were looking when surprising things were happening. These movies will be anonymized and shared here, so that anyone interested in analyzing these movies can do so.  
+For each person who helps us in this study, we will save a set of movies -- one movie of each eye, and a movie showing where those eyes were looking when surprising things were happening. These movies will be anonymized and shared here, so that anyone interested in analyzing these movies can do so. 
+
+Tracking the movements of the eyes is just one way to study minds non-invasively. There are many aspects of behaviour that can give us clues about how a person is learning about the world around them. 
  
 ## Why are cuttlefish involved?
  
