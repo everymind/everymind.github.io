@@ -13,11 +13,11 @@ tags:
 
 {% include toc icon="anchor" title="Comparative Neuroscience" %}
 
-During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behavior_ by comparing the nervous systems of many different animal species. 
+During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
 
-## What do we mean by "intelligent behavior"?
+## What do we mean by "intelligent behaviour"?
 
-We believe that _intelligent behavior_ has to do with how you respond when you are surprised, or how you respond to something you did not expect.
+We believe that _intelligent behaviour_ has to do with how you respond when you are surprised, or how you respond to something you did not expect.
 
 In order to be surprised, you have to be able to guess what is going to happen next, and you also have to decide how sure you are about your guess. When your guess is really wrong, but you felt very sure that you would be right, this moment is surprise, and it is in this moment that your understanding of the world breaks.
 
@@ -25,13 +25,13 @@ When you are able to deal with the thing that surprised you, to the point where 
 
 ## A history of "intelligence": test scores vs. "power" and learning
 
-Often _intelligence_ is used to describe how well we do on tests (sometimes called the "psychometric view"). This assumes that the way we think can be measured by how well we do on tests. Because we believe this, we now have a lot of data on humans solving many different kinds of problems. Many scientists have now analysed over 60 years of test scores, at different times and with different methods. They all realized that people who do well on tests in general also tend to score well on three types of tests:
+Often _intelligence_ is used to describe how well we do on tests (sometimes called the "psychometric view"). This assumes that the way we think can be measured by how well we do on tests. Because we believe this, we now have a lot of data on humans solving many different kinds of problems. Many scientists have now analysed over 60 years of test scores, at different times and with different methods. They all realised that people who do well on tests in general also tend to score well on three types of tests:
  
   1. "Fluid intelligence", or figuring out solutions to new and unusual problems;
-  2. "Crystallized intelligence", or using what one already know from past experience to solve a problem; and
+  2. "Crystallised intelligence", or using what one already know from past experience to solve a problem; and
   3. "Visual-spatial reasoning", or being able to represent the structure and relationships of a problem and then play with it in your head.
  
-If _intelligence_ is a single thing that can be measured and improved on (sometimes called "general intelligence"), then anything that changes a person's score on one type of test should have a similar effect on any of the other two types. But it turns out that this is not true. Take aging, for example. **On average**, test scores in "fluid intelligence" tend to decrease as a person gets older, while **on average**, test scores in "crystallized intelligence" tend to stay the same or even increase. So while test scores might tell you who could learn a job faster or more easily, test scores can't tell you how well a person will perform once they've learned the job.
+If _intelligence_ is a single thing that can be measured and improved on (sometimes called "general intelligence"), then anything that changes a person's score on one type of test should have a similar effect on any of the other two types. But it turns out that this is not true. Take aging, for example. **On average**, test scores in "fluid intelligence" tend to decrease as a person gets older, while **on average**, test scores in "crystallised intelligence" tend to stay the same or even increase. So while test scores might tell you who could learn a job faster or more easily, test scores can't tell you how well a person will perform once they've learned the job.
  
 This means that differences in test scores do not help explain differences in the ways that we think. So scientists came up with another way to think about _intelligence_, based on more general ideas about the nature of thinking (sometimes called the "cognitive-psychology view"). This point of view assumes that thinking is the process of:
  
@@ -47,7 +47,7 @@ While this viewpoint makes _intelligence_ harder to summarise with numbers, it d
  
 The concept of _intelligence_ is actually quite political, especially when trying to explain its scientific underpinnings. 
  
-Even though the scientific community has shown that test scores don't explain how different ways of thinking affect everyday performance, it's easy to use standardized tests to place people in schools and in jobs. This means that the education and economic opportunities available to a person are often determined by outdated and biased measures, in large part because the scientific community has not yet validated a new way to understand differences in the ways we think. 
+Even though the scientific community has shown that test scores don't explain how different ways of thinking affect everyday performance, it's easy to use standardised tests to place people in schools and in jobs. This means that the education and economic opportunities available to a person are often determined by outdated and biased measures, in large part because the scientific community has not yet validated a new way to understand differences in the ways we think. 
 
 And no matter how we measure these differences, it's clear that the increasingly technological nature of our lives have increased the rewards for those who can exploit technology while at the same time increasing the punishment for those who can't, meaning that the policies that dictate how to allocate education and economic opportunities have profound effects on people's lives. This means that progress in our scientific understanding of _intelligence_ and its characterisation is an important part of building a future that welcomes and respects everyone. 
 
@@ -59,7 +59,7 @@ When we encounter familiar objects, like a cup of water, we know what to do with
  
 We will try to understand this power by tracking people's eyes while they watch short movies of surprising things happening. We use our eyes a lot to learn about the world around us, so tracking where people look can help us understand what they know and what they expect.
 
-For each person who helps us in this study, we will save a set of movies -- one movie of each eye, and a movie showing where those eyes were looking when surprising things were happening. These movies will be anonymized and shared here, so that anyone interested in analyzing these movies can do so. 
+For each person who helps us in this study, we will save a set of movies -- one movie of each eye, and a movie showing where those eyes were looking when surprising things were happening. These movies will be anonymised and shared here, so that anyone interested in analysing these movies can do so. 
 
 Tracking the movements of the eyes is just one way to study minds non-invasively. There are many aspects of behaviour that can give us clues about how a person is learning about the world around them. 
  
