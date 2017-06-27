@@ -92,7 +92,7 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Production Staff |                   |                                                              |
 | ------           | ------            | ------                                                       |
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
-| Kerry Perkins    | Project Co-Lead   | Brighton Sea Life Centre                                     |
+| Kerry Perkins    | Project Co-Lead   | Sea Life Brighton                                     |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Hazel Grenade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
@@ -103,4 +103,4 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
-Many additional thanks to Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project, and to Daniel Osorio (Sussex University) for initiating the collaboration with Brighton Sea Life.
+Many additional thanks to Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project, Helen Fitzgerald (Sea Life Brighton) for helping get the project off the ground, and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
