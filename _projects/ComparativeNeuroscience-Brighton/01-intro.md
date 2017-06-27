@@ -77,13 +77,14 @@ To learn more, check out the following links!
 ### Videos
 
 [Controversy of Intelligence: Crash Course Psychology #23](https://youtu.be/9xTz3QjcloI) <br/>
-[Brains Vs. Bias: Crash Course Psychology #24](https://youtu.be/75g4d5sF3xI)
+[Brains Vs. Bias: Crash Course Psychology #24](https://youtu.be/75g4d5sF3xI) <br/>
+[Kings of Camouflage: NOVA Documentary about Cuttlefish](https://youtu.be/L-cxg8mF_Lw)
 
 ### Articles
 
 Hunt, E. 1995. [The Role of Intelligence in Modern Society](http://www.psych.utoronto.ca/users/reingold/courses/intelligence/cache/Hunt-full.html). American Scientist. <br/>
 Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of the Study of Animal Intelligence](https://www.researchgate.net/profile/Edward_Wasserman/publication/232560946_Comparative_cognition_Beginning_the_second_century_of_the_study_of_animal_intelligence/links/02e7e518d1a833a672000000/Comparative-cognition-Beginning-the-second-century-of-the-study-of-animal-intelligence.pdf). _Psychological Bulletin, 113_(2), 211. <br/>
-Wikipedia contributors. 2017, June 23. ["Intelligence"](https://en.wikipedia.org/w/index.php?title=Intelligence&oldid=787068709). _Wikipedia, The Free Encyclopedia_. Retrieved 27 Jun 2017. 
+
 
 
 ## Acknowledgements
