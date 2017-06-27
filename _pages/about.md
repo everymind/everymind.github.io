@@ -12,10 +12,6 @@ gallery:
     image_path: 
     alt: "Sea Life Brighton"
     title: "Sea Life Brighton"
-  - url: https://www.facebook.com/groups/spinningat/
-    image_path: 
-    alt: "London Spinning @"
-    title: "London Spinning @"
 ---
 {% include toc icon="group" title="About Every Mind" %}
 
