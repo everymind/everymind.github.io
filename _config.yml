@@ -260,6 +260,9 @@ collections:
   projects: 
     output: true
     permalink: /:collection/:path/
+  ComparativeNeuroscience-Brighton: 
+    output: true
+    permalink: /:collection/:path/
   people: 
     output: true
     permalink: /:collection/:path/
