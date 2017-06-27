@@ -3,16 +3,12 @@ title: "Projects at Every Mind Online"
 permalink: /projects/
 excerpt: "Currently ongoing projects in the Every Mind community."
 author: Every Mind
-header:
-  video: 
-    id: wG_U5m4FShs
-    provider: youtube
 categories:
   - projects
 gallery:
-  - url: /projects/comparative-intelligence-brighton/
+  - url: /projects/comparative-neuroscience-brighton/
     image_path: assets/images/Brighton_thumbnail.png
-    alt: "Comparative Intelligence at the Brighton Sea Life Center"
+    alt: "Comparative Neuroscience at the Brighton Sea Life Center"
   - url: /projects/rat-video-game/
     image_path: assets/images/Lory_ratVidGame_thumbnail.png
     alt: "Studying motor control using video games"

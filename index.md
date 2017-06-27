@@ -13,22 +13,24 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
-<h2 style="text-align: center;"> What is a mind for? </h2>
+<h2> What is a mind for? </h2>
 
-<p style="text-align: center;"> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems. You could say that a mind's purpose is to give us all of the abilities we need in order to "act intelligently", or to act with "cognitive competence".</p>
+<p> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems. You could say that a mind's purpose is to give us all of the abilities we need in order to "act intelligently", or to act with "cognitive competence".</p>
 
-<h3 style="text-align: center;">So what is "intelligence", and why does it matter? </h3>
+<h2>So what is "intelligence", and why does it matter? </h2>
 
-<p style="text-align: center;"> An excellent place to start is this article by Earl Hunt, <a href="http://www.psych.utoronto.ca/users/reingold/courses/intelligence/cache/Hunt-full.html">"The Role of Intelligence in Modern Society"</a>, published in the summer of 1995 by American Scientist. <br/>If you're in a rush, let our quotation of the final two paragraphs entice you to make the time to read the article in full (it's totally worth it): 
-<blockquote cite="http://www.psych.utoronto.ca/users/reingold/courses/intelligence/cache/Hunt-full.html">
-As this essay has shown, our knowledge of intelligence has been extracted from complex statistical relationships. Queen Victoria's Prime Minister, Benjamin Disraeli, said, "There are lies, damned lies, and statistics." What social policies are dictated by selected facts about intelligence depends on who is doing the selecting. Besides, while social policies are certainly constrained by scientific findings, it is seldom the case that findings in the social sciences will dictate just one policy. <br/><br/> Variations in intelligence have always been with us. How important they are depends on the technological level and social organization of society. The "village idiot" was a stock figure in medieval and early industrial stories. In pre-industrial days, though, an able-bodied person, living in a tightly knit society where economic, extended family and social roles merged, may have been able to be a contributing member of society. In fact, in such societies most of the brighter members of society may not have been able to divorce themselves from the problems of dealing with such individuals, so that it was to their advantage to see that everyone could cope. This probably became less true as agrarian societies were replaced by industrial ones. Today we live in a society where economic roles dominate other roles, where the extended family is reduced to an exchange of Christmas cards with cousins (and even ex-spouses) and where the movers and shakers of society can, indeed, afford to remove themselves from the moved and shaken. There are fascinating questions here for those interested in the intersections between sociology, economics, anthropology and cognitive psychology. We do not have the answers yet. We may need them soon, for policy makers who rely on <a href="https://en.wikipedia.org/wiki/Elephant_in_the_room#Similar">Mokita</a> are flying blind.
-</blockquote>
+<p> An excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9xTz3QjcloI?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-<h2 style="text-align: center;">How can we find the answers? </h2>
+<h2>How can we find the answers? </h2>
 
-<p style="text-align: center;">Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. To learn more, check out our featured projects below! <br/><br/><br/></p>
+<p>Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. <br/><br/>
 
-<h1 style="text-align: center;"> Featured Projects </h1>
+We like to call this way of doing science a <b>massively multiplayer online scientific collaboration, or "MMOSC"</b>. But we didn't make up the idea! Open, collaborative science research projects, referred to as "crowd science", "citizen science", "networked science", or "massively-collaborative science", have been around since the early 2000s. You can learn more about MMOSCs by reading "<a href="http://www.sciencedirect.com/science/article/pii/S0048733313001212">Crowd science: The organization of scientific research in open collaborative projects</a>", an article published in 2014 by Chiara Franzoni and Henry Sauermann. <br/><br/><br/></p>
+
+<h1> Featured Projects </h1>
+
+Ready to dive in? Check out our featured projects below! <br/><br/>
 
 {% include feature_row type="left" %}
 

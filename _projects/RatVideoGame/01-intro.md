@@ -6,7 +6,7 @@ author: Lorenza Calcaterra
 header:
   image: /assets/images/Lory_ratVidGame_header.png
 categories:
-  - projects
+  - Rat Video Game
 tags:
   - video game
   - rats
