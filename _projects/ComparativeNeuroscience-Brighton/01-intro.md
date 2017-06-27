@@ -1,19 +1,19 @@
 ---
 title: "Comparative Neuroscience Studies at the Brighton Sea Life Center"
 permalink: /projects/comparative-neuroscience-brighton/
-excerpt: "An exhibit/citizen science experiment hosted at the Brighton Sea Life Center, July-August 2017."
+excerpt: "An exhibit/citizen science experiment hosted at Sea Life Brighton, July-August 2017."
 author: Danbee Kim
 header:
   image: /assets/images/Brighton_header_small.png
 categories:
   - projects
 tags:
-  - Brighton Sea Life Center
+  - Sea Life Brighton
 ---
 
 {% include toc icon="anchor" title="Comparative Neuroscience" %}
 
-During the summer of 2017, the Brighton Sea Life Center will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
+During the summer of 2017, Sea Life Brighton will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
 
 ## What do we mean by "intelligent behaviour"?
 
