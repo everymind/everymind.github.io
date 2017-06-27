@@ -19,7 +19,7 @@ feature_row:
 
 <h2>So what is "intelligence", and why does it matter? </h2>
 
-<p> An excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/>
+<p> An excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9xTz3QjcloI?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <h2>How can we find the answers? </h2>
