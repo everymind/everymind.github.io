@@ -27,15 +27,15 @@ Often _intelligence_ is used to describe how well we do on tests (sometimes call
  
   1. "Fluid intelligence", or figuring out solutions to new and unusual problems;
   2. "Crystallised intelligence", or using what one already know from past experience to solve a problem; and
-  3. "Visual-spatial reasoning", or being able to represent the structure and relationships of a problem and then play with it in your head.
+  3. "Visual-spatial reasoning", or being able to use visual images and relationships to solve problems.
  
 If _intelligence_ is a single thing that can be measured and improved on (sometimes called "general intelligence"), then anything that changes a person's score on one type of test should have a similar effect on any of the other two types. But it turns out that this is not true. Take aging, for example. **On average**, test scores in "fluid intelligence" tend to decrease as a person gets older, while **on average**, test scores in "crystallised intelligence" tend to stay the same or even increase. So while test scores might tell you who could learn a job faster or more easily, test scores can't tell you how well a person will perform once they've learned the job.
  
 This means that differences in test scores do not capture everything we want to know about the differences in the ways that we think. So scientists came up with another way to think about _intelligence_, based on more general ideas about the nature of thinking (sometimes called the "cognitive-psychology view"). This point of view assumes that thinking is the process of:
  
-  1. representing the structure and relationships of the current problem in your head,
+  1. creating a mental structure that represents the current problem in your head,
   2. remembering information that seems relevant, and
-  3. playing with the problem in your head in order to find a solution.
+  3. playing with the representation in your head in order to find a solution.
  
 If thinking is a process, then _intelligence_ can be described as a combination of several things. One of them is a person's "power" for thinking, or how well they can use the thinking process described above. The others are learning and experience, which provide knowledge of how to use one's thinking power and access to useful information. This means that if you are facing a 
 new kind of problem, finding a solution depends on your ability to create new representations in your head. As you learn and gain experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
@@ -68,7 +68,22 @@ The animals we usually study in neuroscience keep their brains hidden deep insid
  
 Cuttlefish neurons control special cells in the skin that can change the cuttlefish's form, color and feel. One type of special cell is called a "chromatophore" - it's like a tiny bag full of color, with muscles holding onto it on all sides. Each muscle has 3 or 4 neurons wrapped around it. When the muscles are relaxed, the bag of color is closed tight and can't be seen; but when the neurons tell the muscles to pull, the bag of color can grow up to five times larger, making the skin in that area change color.
  
-The cuttlefish's skin has over 20 million chromatophores, each controlled by twenty or more neurons. This means that over a hundred million neurons are working together to control how a cuttlefish appears to other animals. Given that, we believe that looking carefully at cuttlefish skin while it moves through the world could be a way to watch both single neurons and large groups of neurons at the same time without cutting open any part of the animal.
+The cuttlefish's skin has over 20 million chromatophores, each controlled by twenty or more neurons. This means that over a hundred million neurons are working together to control how a cuttlefish appears to other animals. Given that, we believe that looking carefully at cuttlefish skin while it moves through the world could be a way to watch both single neurons and large groups of neurons at the same time without cutting open any part of the animal. 
+
+## Want to learn more?
+
+To learn more, check out the following links! 
+
+### Videos
+
+[Controversy of Intelligence: Crash Course Psychology #23](https://youtu.be/9xTz3QjcloI) <br/>
+[Brains Vs. Bias: Crash Course Psychology #24](https://youtu.be/75g4d5sF3xI)
+
+### Articles
+
+Hunt, E. 1995. [The Role of Intelligence in Modern Society](http://www.psych.utoronto.ca/users/reingold/courses/intelligence/cache/Hunt-full.html). American Scientist. <br/>
+Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of the Study of Animal Intelligence](https://www.researchgate.net/profile/Edward_Wasserman/publication/232560946_Comparative_cognition_Beginning_the_second_century_of_the_study_of_animal_intelligence/links/02e7e518d1a833a672000000/Comparative-cognition-Beginning-the-second-century-of-the-study-of-animal-intelligence.pdf)_Psychological Bulletin, 113_(2), 211. <br/>
+
 
 ## Acknowledgements
 
