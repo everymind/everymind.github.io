@@ -6,7 +6,7 @@ author: Danbee Kim
 header:
   image: 
 categories:
-  - projects
+  - Comparative Neuroscience
 tags:
   - Sea Life Brighton
 ---
