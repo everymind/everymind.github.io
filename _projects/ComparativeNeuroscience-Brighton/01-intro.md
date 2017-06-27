@@ -15,6 +15,8 @@ tags:
 
 During the summer of 2017, Sea Life Brighton will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
 
+{% for post in site.projects.ComparativeNeuroscience-Brighton %} {% include archive-single.html type="grid" %} {% endfor %} 
+
 ## Acknowledgements
 
 | Production Staff |                   |                                                              |
