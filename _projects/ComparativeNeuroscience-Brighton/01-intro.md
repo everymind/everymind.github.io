@@ -102,4 +102,7 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
-Many additional thanks to Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project, Helen Fitzgerald (Sea Life Brighton) for helping get the project off the ground, and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
+Many additional thanks to <br/>
+Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project; <br/> 
+Helen Fitzgerald (Sea Life Brighton) for granting approval to host this exhibit at Sea Life Brighton; <br/>
+and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
