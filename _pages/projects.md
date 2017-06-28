@@ -1,7 +1,9 @@
 ---
+layout: single
 title: "Projects at Every Mind Online"
 permalink: /projects/
 excerpt: "Currently ongoing projects in the Every Mind community."
+author_profile: true
 author: Every Mind
 categories:
   - projects
