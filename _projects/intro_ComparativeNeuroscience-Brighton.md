@@ -15,6 +15,8 @@ tags:
 
 During the summer of 2017, Sea Life Brighton will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
 
+---
+
 ## What do we mean by "intelligent behaviour"?
 
 We believe that _intelligent behaviour_ has to do with how you create and play with your expectations about the world around you in order to solve problems. We also believe that there is a difference between the kind of _intelligence_ that is relevant for humans in industrialised societies, and the abstract characteristics that define the general idea of _intelligence_, which should apply no matter the context or who is using it. 
@@ -62,6 +64,8 @@ To learn more, check out the following links!
 ### Articles
 
 Hunt, E. 1995. [The Role of Intelligence in Modern Society](http://www.psych.utoronto.ca/users/reingold/courses/intelligence/cache/Hunt-full.html). American Scientist. <br/>
+
+---
 
 ## How can we study "intelligence"?
 
