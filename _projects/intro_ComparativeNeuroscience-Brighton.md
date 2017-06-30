@@ -106,7 +106,7 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | Sea Life Brighton                                     |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
-| Hazel Grenade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
+| Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
