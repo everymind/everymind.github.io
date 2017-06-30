@@ -21,6 +21,8 @@ In addition to the knowledge and expertise found here, the resources listed belo
 
 [Chibitronics](https://chibitronics.com/)
 
+[iFixit](https://www.ifixit.com/)
+
 [Open Ephys](http://www.open-ephys.org/)
 
 ## Programming Languages
@@ -54,3 +56,4 @@ In addition to the knowledge and expertise found here, the resources listed belo
 [Adventure Scientists](http://www.adventurescience.org/)
 
 [National Outdoor Leadership School](https://www.nols.edu/en/)
+
