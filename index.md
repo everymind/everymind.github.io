@@ -9,7 +9,7 @@ feature_row:
     alt: "Comparative Neuroscience at the Brighton Sea Life Center"
     title: "Surprise!Intelligence"
     excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative neuroscience research. You can contribute to this project both at the Sea Life Center or online!"
-    url: /projects/comparative-neuroscience-brighton/
+    url: /projects/surprise-intelligence/
     btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
