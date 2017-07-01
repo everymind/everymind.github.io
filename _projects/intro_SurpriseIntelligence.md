@@ -101,8 +101,6 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 
 ## Acknowledgements
 
-| Production Staff |                   |                                                              |
-| ------           | ------            | ------                                                       |
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | Sea Life Brighton                                     |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
