@@ -1,5 +1,5 @@
 ---
-title: "Surprise!Intelligence"
+title: "Surprise! Intelligence"
 permalink: /projects/surprise-intelligence/
 excerpt: "An exhibit/citizen science experiment hosted at Sea Life Brighton, July-August 2017."
 author: Danbee Kim
