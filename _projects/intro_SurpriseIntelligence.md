@@ -11,7 +11,7 @@ tags:
   - Sea Life Brighton
 ---
 
-{% include toc icon="anchor" title="Surprise!Intelligence" %}
+{% include toc icon="anchor" title="Surprise! Intelligence" %}
 
 During the summer of 2017, Sea Life Brighton will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
 
