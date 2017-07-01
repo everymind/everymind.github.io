@@ -107,6 +107,7 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Kirsty McNaught   | Eyetracking Systems Consultant | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
