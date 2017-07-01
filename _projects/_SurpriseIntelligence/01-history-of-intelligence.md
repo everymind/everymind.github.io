@@ -1,13 +1,13 @@
 ---
 title: "A History of 'Intelligence'"
-permalink: /projects/comparative-neuroscience-brighton/background/
+permalink: /projects/surprise-intelligence/background/
 excerpt: "What's intelligence anyway?"
 author: Danbee Kim
 header:
   image: 
 categories:
   - projects
-  - Comparative Neuroscience 
+  - Surprise!Intelligence 
 tags:
   - Sea Life Brighton
 ---
