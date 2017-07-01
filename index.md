@@ -7,7 +7,7 @@ excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/Brighton_thumbnail.png
     alt: "Comparative Neuroscience at the Brighton Sea Life Center"
-    title: "Comparative Neuroscience"
+    title: "Surprise!Intelligence"
     excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative neuroscience research. You can contribute to this project both at the Sea Life Center or online!"
     url: /projects/comparative-neuroscience-brighton/
     btn_label: "Learn More"
@@ -20,7 +20,7 @@ feature_row:
 <h2>So what is "intelligence", and why does it matter? </h2>
 
 <p> An excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9xTz3QjcloI?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="460" src="https://www.youtube.com/embed/9xTz3QjcloI?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <h2>How can we find the answers? </h2>
 
