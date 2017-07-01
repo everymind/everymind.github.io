@@ -1,6 +1,6 @@
 ---
-title: "Comparative Neuroscience Studies at the Brighton Sea Life Center"
-permalink: /projects/comparative-neuroscience-brighton/
+title: "Surprise!Intelligence"
+permalink: /projects/surprise-intelligence/
 excerpt: "An exhibit/citizen science experiment hosted at Sea Life Brighton, July-August 2017."
 author: Danbee Kim
 header:
@@ -11,7 +11,7 @@ tags:
   - Sea Life Brighton
 ---
 
-{% include toc icon="anchor" title="Comparative Neuroscience" %}
+{% include toc icon="anchor" title="Surprise!Intelligence" %}
 
 During the summer of 2017, Sea Life Brighton will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
 
@@ -115,7 +115,10 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
-Many additional thanks to <br/>
-Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project; <br/> 
-Helen Fitzgerald (Sea Life Brighton) for granting approval to host this exhibit at Sea Life Brighton; <br/>
+**Many additional thanks to** 
+
+Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project;
+
+Helen Fitzgerald (Sea Life Brighton) for granting approval to host this exhibit at Sea Life Brighton;
+
 and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
