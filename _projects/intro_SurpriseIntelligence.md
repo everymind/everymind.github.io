@@ -109,6 +109,8 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Kirsty McNaught   | Eyetracking Systems Consultant | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
+| [Caitlin O'Brien](mailto:ceobrien5@gmail.com) | Video content contributor |  |
+| [Ryuta Nakajima](http://ryutanakajima.com/) | Video content contributor | Independent Artist |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
