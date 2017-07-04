@@ -8,7 +8,7 @@ author: Every Mind
 categories:
   - projects
 gallery:
-  - url: /projects/comparative-neuroscience-brighton/
+  - url: /projects/surprise-intelligence/
     image_path: assets/images/Brighton_thumbnail.png
     alt: "Comparative Neuroscience at the Brighton Sea Life Center"
     caption: "Comparative Neuroscience at the Brighton Sea Life Center"
