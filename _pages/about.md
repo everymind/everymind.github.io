@@ -9,7 +9,7 @@ gallery:
     alt: "Sainsbury Wellcome Center for Neural Circuits and Behaviour"
     title: "Sainsbury Wellcome Center for Neural Circuits and Behaviour"
   - url: https://www.visitsealife.com/brighton/
-    image_path: 
+    image_path: /assets/images/SEALIFEBrightonLogo.png
     alt: "Sea Life Brighton"
     title: "Sea Life Brighton"
 ---
