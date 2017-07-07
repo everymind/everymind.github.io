@@ -9,6 +9,15 @@ categories:
   - projects
 tags:
   - Sea Life Brighton
+gallery: 
+  - url: https://www.ucl.ac.uk/swc
+    image_path: /assets/images/SWClogo.png
+    alt: "Sainsbury Wellcome Center for Neural Circuits and Behaviour"
+    title: "Sainsbury Wellcome Center for Neural Circuits and Behaviour"
+  - url: https://www.visitsealife.com/brighton/
+    image_path: /assets/images/SEALIFEBrightonLogo.png
+    alt: "Sea Life Brighton"
+    title: "Sea Life Brighton"
 ---
 
 {% include toc icon="anchor" title="Surprising Minds" %}
@@ -115,11 +124,14 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Adam Kampff      | PhD Advisor            | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
 **Many additional thanks to** 
-
-Adam Kampff (Sainsbury Wellcome Centre for Neural Circuits and Behaviour) for support and mentorship throughout this project;
 
 Helen Fitzgerald (Sea Life Brighton) for granting approval to host this exhibit at Sea Life Brighton;
 
 and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
+
+{% include gallery caption="This exhibit is sponsored by the Sainsbury Wellcome Centre and hosted by Sea Life Brighton" %}
+
+
