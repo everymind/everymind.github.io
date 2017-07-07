@@ -128,6 +128,8 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 
 **Many additional thanks to** 
 
+The Kampff Lab for continuous and unflagging support and enthusiasm;   
+
 Helen Fitzgerald (Sea Life Brighton) for granting approval to host this exhibit at Sea Life Brighton;
 
 and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
