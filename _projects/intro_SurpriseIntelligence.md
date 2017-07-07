@@ -35,9 +35,9 @@ If _intelligence_ is a single thing that can be measured and improved on (someti
  
 This means that differences in test scores do not capture everything we want to know about the differences in the ways that we think. So scientists came up with another way to think about _intelligence_, based on more general ideas about the nature of thinking (sometimes called the "cognitive-psychology view"). This point of view assumes that thinking is the process of:
  
-  1. creating a mental structure that represents the current problem in your head,
-  2. remembering information that seems relevant, and
-  3. playing with the representation in your head in order to find a solution.
+  * creating a mental structure that represents the current problem in your head,
+  * remembering information that seems relevant, and
+  * playing with the representation in your head, or creating a new representation altogether, in order to find a solution.
  
 If thinking is a process, then _intelligence_ can be described as a combination of several things. One of them is a person's "power" for thinking, or how well they can use the thinking process described above. The others are learning and experience, which provide knowledge of how to use one's thinking power and access to useful information. This means that if you are facing a 
 new kind of problem, finding a solution depends on your ability to create new representations in your head. As you learn and gain experience, finding solutions effectively depends on recognising patterns between past solutions and the current problem. 
