@@ -111,7 +111,7 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 ## Acknowledgements
 
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
-| Kerry Perkins    | Project Co-Lead   | Sea Life Brighton                                     |
+| Kerry Perkins    | Project Co-Lead   | [Sea Life Brighton](https://www.visitsealife.com/brighton/) |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
@@ -123,9 +123,9 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Roger T. Hanlon | Video content contributor | Marine Biological Laboratory, Woods Hole, USA |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Martyn Stopps    | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Robb Barrett     | Prototyping assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Adam Kampff      | PhD Advisor            | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Adam Kampff      | PhD Advisor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
 **Many additional thanks to** 
 
