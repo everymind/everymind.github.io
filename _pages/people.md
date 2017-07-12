@@ -7,7 +7,7 @@ author_profile: true
 
 ## The EveryMind Team
 
-{% include figure image_path="/assets/images/WhoWeAre_EveryMindTeam.png" alt="The EveryMind Team" caption="The EveryMind team: we bring a variety of skills and perspectives to our collaborations." %}
+{% include figure image_path="/assets/images/WhoWeAre_EveryMindTeam_cropped.png" alt="The EveryMind Team" caption="The EveryMind team: we bring a variety of skills and perspectives to our collaborations." %}
 
 We started as a neuroscience lab, studying "intelligent systems". But the more we probed this idea of intelligent systems, the more we wondered, "What is intelligence anyway?" and "Why do we even have a cortex?"
 
