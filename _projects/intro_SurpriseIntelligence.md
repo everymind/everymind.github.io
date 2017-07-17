@@ -125,6 +125,8 @@ Wasserman, E.A. 1993. [Comparative Cognition: Beginning the Second Century of th
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Alex Whitworth | Resident scientist-in-training | Nuffield Research Placements | 
+| Reanna Campbell-Russo | Resident scientist-in-training | Nuffield Research Placements| 
 | Adam Kampff      | PhD Advisor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
 **Many additional thanks to** 
