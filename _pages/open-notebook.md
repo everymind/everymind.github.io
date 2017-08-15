@@ -7,12 +7,14 @@ author_profile: true
 
 This blog serves as a shared, online open lab notebook for EveryMind Online projects. Posts are organized by project below. 
 
-{% include group-by-array collection=site.posts field="categories" %}
+:)
 
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h1 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h1>
-  {% for post in posts %}
-    {% include archive-single.html %}
+<h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
+<ul class="posts">
+  {% for post in page.posts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
   {% endfor %}
-{% endfor %}
+</ul>
