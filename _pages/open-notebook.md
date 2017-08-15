@@ -2,7 +2,7 @@
 layout: archive
 permalink: /open-notebook/
 title: "Open Notebook Blog"
-author_profile: false
+author_profile: true
 ---
 
 This blog serves as a shared, online open lab notebook for EveryMind Online projects.  
