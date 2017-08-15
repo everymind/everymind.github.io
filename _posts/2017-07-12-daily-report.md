@@ -1,5 +1,5 @@
 ---
-title: "Daily Report: August 12, 2017"
+title: "Daily Report: July 12, 2017"
 excerpt: "The morning was less successful than the afternoon, mostly due to the large numbers of primary school children that wanted to take part. "
 categories:
   - Surprising Minds
@@ -10,7 +10,7 @@ tags:
 ---
 
 Date: 2017.07.12  
-Host: Alex Whitworth 
+Host: Alex  
 
 Day start: 10h00   
 Lunch break start: 13h00  
