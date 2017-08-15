@@ -9,22 +9,36 @@ tags:
   - prototype
 ---
 
+# Exhibit start and end procedure
+
+Start Procedure:  
+ - Make sure all programs/windows are closed. Close all black "terminal" windows FIRST.  
+ - Press the green arrow in the taskbar at the bottom of the screen and WAIT (>5min).  
+ - Once all screens are black, move mouse/pointer out of view.  
+ - Test installation with face-in-mask trigger to see if it's ready -- every day, the first dataset should be the host.  
+
+End Procedure:  
+ - Close EVERYTHING. Click on the large monitor screen, then hit F11 on the keyboard to exit Fullscreen. Then look at the taskbar on small feedback monitor to make sure everything is closed.  
+ - Press the big red button in the taskbar -- this icon is at about center-bottom of the screen. 
+
+# Daily Report template
+
 Dear Nuffield students, 
 
 Below is the daily report template for the exhibit. Please fill it out at the end of each day and email it to both me and Goncalo.
 
-Date:
-Name of host:
+Date:  
+Name of host:  
 
-Day start:
-Lunch break start:
-Lunch break end:
-Day end:
+Day start:  
+Lunch break start:  
+Lunch break end:  
+Day end:  
 
-# of ''good'' participants:
-Estimated average age group:
-Brief description of the day:
-Best visitor comment:
+\# of ''good'' participants:  
+Estimated average age group:  
+Brief description of the day:  
+Best visitor comment:  
 
 Any contacts?
 
