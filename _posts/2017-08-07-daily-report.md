@@ -20,6 +20,6 @@ Day end: 16h30
 \# of "good" participants: 77  
 Estimated average age group: 30
 
-Brief description of the day: The day wasn't very busy but there was a usual interest and crowding around the exhibit at peak times. 
+Brief description of the day: The day wasn't very busy but there was a usual interest and crowding around the exhibit at peak times. Steady stream of people, people were eager to know more about the project and I referred lots of people to the website.
 
 Best comment:
