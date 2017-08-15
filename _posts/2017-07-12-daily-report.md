@@ -17,7 +17,7 @@ Day end: 4:45
 Lunch break start:1:00
 Lunch break end: 2:00
 
-# of "good" participants: 128
+\# of "good" participants: 128
 Estimated average age group: 15-22
 
 Breif descritopn of the day: The morning was less successful than the afternoon, mostly due to the large numbers of primary school children that wanted to take part. They were often just too small to reach the eye piece, so the footage was not satisfactory because their eye was often not in view. In addition, did not help that there was few teachers with them. There were also a few very disruptive children who would distract the child taking part in the exhibit. Furthermore, a main issue was the teachers themselves who would not be present when I told the children the instructions and would then try and get the child away for other children to have a go, not knowing that they had to stay there. This was usually because they were rushing to see a tour.
