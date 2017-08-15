@@ -1,5 +1,5 @@
 ---
-title: "Daily Report: August 14, 2017"
+title: "Daily Report: July 14, 2017"
 excerpt: "One of the ladies I spoke to lectured in neuroscience and was incredibly interested by the project. "
 categories:
   - Surprising Minds
@@ -10,7 +10,7 @@ tags:
 ---
 
 Date: 2017.07.14    
-Host: Reanna Campbell-Russo 
+Host: Reanna  
 
 Day start: 09h50   
 Lunch break start: 12h50  
