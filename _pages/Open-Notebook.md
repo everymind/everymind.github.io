@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /open-notebook/
-title: "EveryMind's Open Notebook"
+title: "EveryMind's Open Notebook Blog"
 author_profile: false
 ---
 
