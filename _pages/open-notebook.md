@@ -5,7 +5,7 @@ title: "Open Notebook Blog"
 author_profile: true
 ---
 
-This blog serves as a shared, online open lab notebook for EveryMind Online projects.  
+This blog serves as a shared, online open lab notebook for EveryMind Online projects. Posts are organized by project below. 
 
 {% include group-by-array collection=site.posts field="categories" %}
 
