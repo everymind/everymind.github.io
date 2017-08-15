@@ -1,5 +1,5 @@
 ---
-title: "Daily Report: August 13, 2017"
+title: "Daily Report: July 13, 2017"
 excerpt: "The day started at 9am however the exhibit only opened at 2:20pm as we had to deal with aesthetic and technical difficulties concerning replacing the old mask with a new one and rewiring the back plate of the acrylic. "
 categories:
   - Surprising Minds
@@ -10,7 +10,7 @@ tags:
 ---
 
 Date: 2017.07.13  
-Hosts: Alex Whitworth, Reanna Campbell-Russo, Danbee Kim
+Hosts: Alex, Reanna, Danbee 
 
 Day start: 9h00   
 Lunch break start: 13h15  
