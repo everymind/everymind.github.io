@@ -1,5 +1,5 @@
 ---
-title: "Daily Report: August 08, 2017"
+title: "Daily Report: August 07, 2017"
 excerpt: "The day wasn't very busy but there was a usual interest and crowding around the exhibit at peak times. "
 categories:
   - Surprising Minds
@@ -9,7 +9,7 @@ tags:
   - prototype
 ---
 
-Date: 2017.08.08  
+Date: 2017.08.07  
 Host: Reanna 
 
 Day start: 09h10   
