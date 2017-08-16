@@ -4,6 +4,7 @@ excerpt: "Not very many people came to the aquarium over the course of the day a
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
