@@ -24,6 +24,8 @@ gallery:
 
 During the summer of 2017, Sea Life Brighton will host an interactive citizen science exhibit that engages Sea Life guests with current neuroscience research trying to understand general principles of _intelligent behaviour_ by comparing the nervous systems of many different animal species. 
 
+Check out our [project blog](/categories/#surprising-minds) for recent news and updates!
+
 ---
 
 ## What do we mean by "intelligent behaviour"?
