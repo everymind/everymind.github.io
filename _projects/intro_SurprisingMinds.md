@@ -4,7 +4,7 @@ permalink: /projects/surprising-minds/
 excerpt: "An exhibit/citizen science experiment hosted at Sea Life Brighton, July-August 2017."
 author: Danbee Kim
 header:
-  image: /assets/images/Brighton_header_small.png
+  image: /assets/images/SurprisingMinds_header_small.png
 categories:
   - projects
 tags:
