@@ -14,8 +14,8 @@ projects:
   - title: "EveryMind Projects"
     url: /projects/
     children: 
-      - title: "Comparative Intelligence"
-        url: /projects/comparative-intelligence-brighton/
+      - title: "Surprising Minds"
+        url: /projects/surprising-minds/
       - title: "Rat Video Game"
         url: /projects/rat-video-game
       - title: "Neuroseeker"
