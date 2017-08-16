@@ -1,6 +1,6 @@
 ---
 title: "Surprising Minds"
-permalink: /projects/surprise-intelligence/
+permalink: /projects/surprising-minds/
 excerpt: "An exhibit/citizen science experiment hosted at Sea Life Brighton, July-August 2017."
 author: Danbee Kim
 header:
