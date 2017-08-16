@@ -2,9 +2,9 @@
 title: "Daily Report: July 11, 2017"
 excerpt: "Below is the daily report template for the exhibit. Please fill it out at the end of each day and email it to both me and Goncalo.  "
 categories:
-  - open-notebook
-tags:
   - Surprising Minds
+tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
