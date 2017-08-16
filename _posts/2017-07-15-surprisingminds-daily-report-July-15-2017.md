@@ -4,6 +4,7 @@ excerpt: "I was asked a lot about the science behind it; a lot of parents seemed
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
