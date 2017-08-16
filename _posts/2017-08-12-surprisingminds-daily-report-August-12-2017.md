@@ -4,6 +4,8 @@ excerpt: "was thinking about how to automate the exhibit all day. "
 categories:
   - Surprising Minds
 tags:
+  - daily report
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
