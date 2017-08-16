@@ -4,6 +4,7 @@ excerpt: "Below is the daily report template for the exhibit. Please fill it out
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
