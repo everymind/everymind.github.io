@@ -38,6 +38,8 @@ So, we want to bring these studies of behaviour out of the laboratory and "into 
 
 Check out our [project blog](/categories/#surprising-minds) for recent news and updates! 
 
+Visit [Surprising Minds' github repository](https://github.com/everymind/SurprisingMinds) to see the dataset, our analysis code, and visualizations of the project's results! 
+
 Share your thoughts, photos, and videos of the exhibit on twitter, instagram, and facebook using #surprisingminds and #everymindonline!
 
 ## Acknowledgements
