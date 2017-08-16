@@ -8,10 +8,10 @@ author: Every Mind
 categories:
   - projects
 gallery:
-  - url: /projects/surprise-intelligence/
+  - url: /projects/surprising-minds/
     image_path: assets/images/Brighton_thumbnail.png
-    alt: "Comparative Neuroscience at the Brighton Sea Life Center"
-    caption: "Comparative Neuroscience at the Brighton Sea Life Center"
+    alt: "Neuroscience in the wild at Sea Life Brighton!"
+    caption: "Neuroscience in the wild at Sea Life Brighton!"
   - url: /projects/rat-video-game/
     image_path: assets/images/Lory_ratVidGame_thumbnail.png
     alt: "Studying motor control using video games"
