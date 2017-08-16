@@ -19,6 +19,6 @@ gallery:
 
 From this page you can explore current projects in the Every Mind community. 
 
-Check out [our online open lab notebook!](/open-notebook/)
+Check out [our online open lab notebook!](/projects/open-notebook/)
 
 {% include gallery caption="Click on a photo to learn more about that project!" %}
