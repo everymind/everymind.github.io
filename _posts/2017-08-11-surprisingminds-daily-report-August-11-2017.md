@@ -5,6 +5,7 @@ I referred lots of people to the website and I think it would be very beneficial
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
