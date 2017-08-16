@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /open-notebook/
-title: "Open Notebook Blog"
+permalink: /categories/
+title: "Project Blog"
 author_profile: true
 ---
 
