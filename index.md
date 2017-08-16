@@ -5,7 +5,7 @@ header:
   overlay_color: "#382957"
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
-  - image_path: assets/images/SurprisingMinds_header_small.png
+  - image_path: assets/images/SurprisingMinds_thumbnail.png
     alt: "Neuroscience in the wild at Sea Life Brighton!"
     title: "Surprising Minds"
     excerpt: "This summer, we will be prototyping a new way to ask scientific questions about behaviour and the mind with an interactive science exhibit at Sea Life Brighton!"
