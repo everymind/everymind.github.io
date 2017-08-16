@@ -6,10 +6,10 @@ header:
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/Brighton_thumbnail.png
-    alt: "Comparative Neuroscience at the Brighton Sea Life Center"
-    title: "Surprise! Intelligence"
-    excerpt: "This summer we will be running a human psychophysics experiment as part of an exhibit at the Brighton Sea Life Center about comparative neuroscience research. You can contribute to this project both at the Sea Life Center or online!"
-    url: /projects/surprise-intelligence/
+    alt: "Neuroscience in the wild at Sea Life Brighton!"
+    title: "Surprising Minds"
+    excerpt: "This summer, we will be prototyping a new way to ask scientific questions about behaviour and the mind with an interactive science exhibit at Sea Life Brighton!"
+    url: /projects/surprising-minds/
     btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
