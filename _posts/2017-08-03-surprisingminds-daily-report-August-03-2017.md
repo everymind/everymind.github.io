@@ -4,6 +4,7 @@ excerpt: "The day consisted of a constant stream of participants, two foreign sc
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
