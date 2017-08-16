@@ -9,7 +9,7 @@ categories:
   - projects
 gallery:
   - url: /projects/surprising-minds/
-    image_path: assets/images/Brighton_thumbnail.png
+    image_path: assets/images/SurprisingMinds_header_small.png
     alt: "Neuroscience in the wild at Sea Life Brighton!"
     caption: "Neuroscience in the wild at Sea Life Brighton!"
   - url: /projects/rat-video-game/
