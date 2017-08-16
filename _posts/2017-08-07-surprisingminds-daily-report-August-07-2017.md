@@ -4,6 +4,7 @@ excerpt: "The day wasn't very busy but there was a usual interest and crowding a
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
