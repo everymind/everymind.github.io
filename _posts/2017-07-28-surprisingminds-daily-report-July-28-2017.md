@@ -4,6 +4,7 @@ excerpt: "There were more older children today but they seemed to be lacking in 
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
