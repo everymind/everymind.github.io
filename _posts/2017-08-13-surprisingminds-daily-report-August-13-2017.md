@@ -4,6 +4,8 @@ excerpt: "Reanna's last day! "
 categories:
   - Surprising Minds
 tags:
+  - daily report
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
