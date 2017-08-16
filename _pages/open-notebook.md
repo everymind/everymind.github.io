@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /open-notebook/
+permalink: /projects/open-notebook/
 title: "Open Notebook Blog"
 author_profile: true
 ---
