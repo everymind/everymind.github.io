@@ -4,6 +4,7 @@ excerpt: "Quite a busy day, lots of people were interested in the exhibit. "
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
