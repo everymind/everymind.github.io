@@ -4,6 +4,7 @@ excerpt: "busy but short because I slept thru my morning alarms...thanks jetlag 
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
