@@ -4,6 +4,7 @@ excerpt: "The day was quite busy, there were a few foreign schools and a lot of 
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
