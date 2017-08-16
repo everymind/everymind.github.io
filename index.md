@@ -54,5 +54,3 @@ Ready to dive in? Check out our featured projects below! <br/><br/>
 </div>
 
 <!--End mc_embed_signup-->
-
-<p>This website is currently under construction, and will be fully functional after June 30, 2017. Please visit again soon! In the meanwhile, if you have questions, comments, concerns, or ideas, feel free to email us at everymind at protonmail dot com. </p>
