@@ -260,13 +260,13 @@ defaults:
 collections: 
   projects: 
     output: true
-    permalink: /:collection/:path/
-  ComparativeNeuroscience-Brighton: 
+    permalink: /:categories/:title/
+  surprising-minds: 
     output: true
-    permalink: /:collection/:path/
+    permalink: /:categories/:title/
   people: 
     output: true
-    permalink: /:collection/:path/
+    permalink: /:categories/:title/
   resources: 
     output: true
     permalink: /:collection/:path/
