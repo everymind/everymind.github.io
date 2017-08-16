@@ -4,6 +4,7 @@ excerpt: "The morning was less successful than the afternoon, mostly due to the 
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
