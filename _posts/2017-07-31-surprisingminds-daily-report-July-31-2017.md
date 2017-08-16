@@ -4,6 +4,7 @@ excerpt: "The day was quite slow today but a lot of parents took part and enjoye
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
