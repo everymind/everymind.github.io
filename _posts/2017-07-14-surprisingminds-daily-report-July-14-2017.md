@@ -4,6 +4,7 @@ excerpt: "One of the ladies I spoke to lectured in neuroscience and was incredib
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
