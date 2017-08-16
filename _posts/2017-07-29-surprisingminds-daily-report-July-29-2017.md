@@ -4,6 +4,7 @@ excerpt: "Today remained quite busy but because everyone was in such a rush, not
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
