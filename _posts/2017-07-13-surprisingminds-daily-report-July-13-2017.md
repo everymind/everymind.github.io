@@ -4,6 +4,7 @@ excerpt: "The day started at 9am however the exhibit only opened at 2:20pm as we
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
