@@ -4,6 +4,7 @@ excerpt: "The day had quite a slow start but by the afternoon it was very busy. 
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
