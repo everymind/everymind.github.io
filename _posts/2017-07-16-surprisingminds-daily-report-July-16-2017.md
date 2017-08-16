@@ -4,6 +4,7 @@ excerpt: "There were less schools in today, but a lot more families consisting o
 categories:
   - Surprising Minds
 tags:
+  - daily report
   - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
