@@ -4,6 +4,7 @@ excerpt: " "
 categories:
   - Surprising Minds
 tags:
+  - open lab notebook
   - Sea Life Brighton
   - Nuffield Summer Placement
   - prototype
