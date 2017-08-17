@@ -67,7 +67,7 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 
 The EveryMind Team for continuous and unflagging support and enthusiasm;   
 
-Alice Taylor-Gee (Sainsbury Wellcome Centre) for nurturing a momentum for public outreach and engagement at the Sainsbury Wellcome Centre;  
+Alice Taylor-Gee (Sainsbury Wellcome Centre) for nurturing a momentum for public outreach and engagement at the Sainsbury Wellcome Centre, and for connecting us with the Nuffield Research Placement program;  
 
 Helen Fitzgerald (Sea Life Brighton) for her support throughout the project at Sea Life Brighton;
 
