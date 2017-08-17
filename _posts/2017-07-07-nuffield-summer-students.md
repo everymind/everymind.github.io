@@ -53,5 +53,5 @@ I think whatsapp will be the easiest way to communicate with everyone quickly, e
 
 As always, let me know if you have any questions or concerns. Can't wait to begin!
 
-Have a lovely weekend,
+Have a lovely weekend,  
 Danbee
