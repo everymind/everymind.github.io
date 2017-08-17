@@ -67,7 +67,9 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 
 The EveryMind Team for continuous and unflagging support and enthusiasm;   
 
-Helen Fitzgerald (Sea Life Brighton) for granting approval to host this exhibit at Sea Life Brighton;
+Alice Taylor-Gee (Sainsbury Wellcome Centre) for nurturing a momentum for public outreach and engagement at the Sainsbury Wellcome Centre;  
+
+Helen Fitzgerald (Sea Life Brighton) for her support throughout the project at Sea Life Brighton;
 
 and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
 
