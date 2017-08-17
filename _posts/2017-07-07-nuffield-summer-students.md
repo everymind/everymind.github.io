@@ -1,6 +1,6 @@
 ---
 title: "Nuffield Summer Students"
-excerpt: "We teamed up with A-levels students interested in neuroscience research "in the wild" to run the exhibit for 3 weeks and prototype the interactive booth as a data-collection tool. "
+excerpt: "We teamed up with A-levels students interested in neuroscience research 'in the wild' to run the exhibit for 3 weeks and prototype the interactive booth as a data-collection tool. "
 author: Danbee Kim
 categories:
   - Surprising Minds
