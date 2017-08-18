@@ -1,6 +1,6 @@
 ---
 title: "Daily Report: August 18, 2017"
-excerpt: ""
+excerpt: "It was pretty slow all day, but this meant I got more time with each participant. "
 categories:
   - Surprising Minds
 tags:
