@@ -13,6 +13,10 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
+<h1> Featured Projects </h1>
+
+{% include feature_row type="left" %}
+
 <h2> What is a mind for? </h2>
 
 <p> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems. You could say that a mind's purpose is to give us all of the abilities we need in order to "act intelligently", or to act with "cognitive competence".</p>
@@ -27,12 +31,6 @@ feature_row:
 <p>Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. <br/><br/>
 
 We like to call this way of doing science a <b>massively multiplayer online scientific collaboration, or "MMOSC"</b>. But we didn't make up the idea! Open, collaborative science research projects, often referred to as "crowd science", "citizen science", "networked science", or "massively-collaborative science", have been around since the early 2000s. You can learn more about MMOSCs by reading "<a href="http://www.sciencedirect.com/science/article/pii/S0048733313001212">Crowd science: The organization of scientific research in open collaborative projects</a>", an article published in 2014 by Chiara Franzoni and Henry Sauermann. <br/><br/><br/></p>
-
-<h1> Featured Projects </h1>
-
-Ready to dive in? Check out our featured projects below! <br/><br/>
-
-{% include feature_row type="left" %}
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
