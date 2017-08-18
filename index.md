@@ -23,7 +23,9 @@ feature_row:
 
 <h2>So what is "intelligence", and why does it matter? </h2>
 
-<p> An excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/><br/>
+<p> We define intelligence as <b>the power of brains to predict the world.</b> This power helps us learn what to expect next. We use our expectations all the time by creating a model in our minds of "how things should work". This model is often called our "model of the world". So, we can think of intelligence as the power to build and adapt a "model of the world." <br/><br/>
+	
+You may have heard of other ways to define intelligence. Turns out, "intelligence" is an idea with a long and sometimes sordid history. To learn more, an excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/><br/>
 <iframe width="460" src="https://www.youtube.com/embed/9xTz3QjcloI?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <h2>How can we find the answers? </h2>
