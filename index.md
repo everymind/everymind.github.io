@@ -14,7 +14,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-<h1> Featured Projects </h1>
+<h2> Featured Project </h2>
 
 {% include feature_row type="left" %}
 
