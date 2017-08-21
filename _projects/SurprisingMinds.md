@@ -46,8 +46,8 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | [Sea Life Brighton](https://www.visitsealife.com/brighton/) |
-| Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
-| Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | Sol Vin  |
+| Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
+| Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Kirsty McNaught   | Eyetracking Systems Consultant | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
