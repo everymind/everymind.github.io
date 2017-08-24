@@ -18,8 +18,6 @@ feature_row:
 
 {% include feature_row type="left" %}
 
-{% include toc title="Every Mind Online" %}
-
 <h2> What is a mind for? </h2>
 
 <p> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems. You could say that a mind's purpose is to give us all of the abilities we need in order to "act intelligently", or to act with "cognitive competence".</p>
