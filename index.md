@@ -14,11 +14,11 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-{% include toc title="Every Mind Online" %}
-
 <h2> Featured Project </h2>
 
 {% include feature_row type="left" %}
+
+{% include toc title="Every Mind Online" %}
 
 <h2> What is a mind for? </h2>
 
