@@ -9,7 +9,7 @@ feature_row:
     alt: "Neuroscience in the wild at Sea Life Brighton!"
     title: "Surprising Minds"
     excerpt: "During the summer of 2017, we prototyped a new way to ask scientific questions about behaviour and the mind with an interactive science exhibit at Sea Life Brighton! This is part of a larger effort to bring neuroscience experiments out of the lab and 'into the wild'. Now we're analyzing our initial data and working on exhibit version 2.0!"
-    url: /projects/surprising-minds/
+    url: /SurprisingMinds/
     btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
