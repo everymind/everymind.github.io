@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 header: 
-  image: /assets/images/HampsteadHeath2017.jpg
+  overlay_image: /assets/images/HampsteadHeath2017.jpg
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/SurprisingMinds_thumbnail.png
