@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: false
-header:
+header: /assets/images/HampsteadHeath2017.jpg
   overlay_color: "#382957"
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
