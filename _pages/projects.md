@@ -19,6 +19,4 @@ gallery:
 
 From this page you can explore current projects in the Every Mind community. 
 
-Check out [our blog for project updates!](/categories/)
-
 {% include gallery caption="Click on a photo to learn more about that project!" %}
