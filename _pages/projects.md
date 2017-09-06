@@ -8,7 +8,7 @@ author: Every Mind
 categories:
   - projects
 gallery:
-  - url: /projects/surprising-minds/
+  - url: /SurprisingMinds/
     image_path: assets/images/SurprisingMinds_thumbnail.png
     alt: "Neuroscience in the wild at Sea Life Brighton!"
     caption: "Neuroscience in the wild at Sea Life Brighton!"
