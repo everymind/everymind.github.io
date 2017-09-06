@@ -19,18 +19,18 @@ feature_row:
 
 {% include feature_row type="left" %}
 
-<h2> What is a mind for? </h2>
+<h1> What is a mind for? </h1>
 
 <p> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems. You could say that a mind's purpose is to give us all of the abilities we need in order to "act intelligently", or to act with "cognitive competence".</p>
 
-<h2>So what is "intelligence", and why does it matter? </h2>
+<h1>So what is "intelligence", and why does it matter? </h1>
 
 <p> We define intelligence as <b>the power of brains to predict the world.</b> This power helps us learn what to expect next. We use our expectations all the time by creating a model in our minds of "how things should work". This model is often called our "model of the world". So, we can think of intelligence as the power to build and adapt a "model of the world." <br/><br/>
 	
 You may have heard of other ways to define intelligence. Turns out, "intelligence" is an idea with a long and sometimes sordid history. To learn more, an excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/><br/>
 <iframe width="460" src="https://www.youtube.com/embed/9xTz3QjcloI?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-<h2>How can we find the answers? </h2>
+<h1>How can we find the answers? </h1>
 
 <p>Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. <br/><br/>
 	
