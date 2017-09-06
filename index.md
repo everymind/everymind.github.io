@@ -1,8 +1,8 @@
 ---
 layout: splash
 author_profile: false
-header: /assets/images/HampsteadHeath2017.jpg
-  overlay_color: "#382957"
+header: 
+  image: /assets/images/HampsteadHeath2017.jpg
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/SurprisingMinds_thumbnail.png
