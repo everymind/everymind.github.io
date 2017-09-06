@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/HampsteadHeath2017.jpg
 excerpt: "Studying brains and understanding minds is one of today's most exciting challenges. We want to get more brains involved in the study of brains, and more minds involved in understanding how minds of many shapes and sizes can co-exist. "
 feature_row:
-  - image_path: assets/images/SurprisingMinds_thumbnail.png
+  - image_path: assets/images/SurprisingMinds-thumbnail.jpg
     alt: "Neuroscience in the wild at Sea Life Brighton!"
     title: "Surprising Minds"
     excerpt: "During the summer of 2017, we prototyped a new way to ask scientific questions about behaviour and the mind with an interactive science exhibit at Sea Life Brighton! This is part of a larger effort to bring neuroscience experiments out of the lab and 'into the wild'. Now we're analyzing our initial data and working on exhibit version 2.0!"
