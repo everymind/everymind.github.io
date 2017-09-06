@@ -2,6 +2,7 @@
 layout: splash
 author_profile: false
 header: 
+  overlay_color: "#95dba3"
   overlay_image: /assets/images/HampsteadHeath2017.jpg
 excerpt: "Studying brains and understanding minds is one of today's most exciting challenges. We want to get more brains involved in the study of brains, and more minds involved in understanding how minds of many shapes and sizes can co-exist. "
 feature_row:
