@@ -8,6 +8,10 @@ author: Every Mind
 categories:
   - projects
 gallery:
+  - url: /CuttleShuttle/
+    image_path: assets/images/Cuttles.png
+    alt: "An exploration of cuttlefish hunting behaviour"
+    caption: "An exploration of cuttlefish hunting behaviour"
   - url: /SurprisingMinds/
     image_path: assets/images/SurprisingMinds-thumbnail.jpg
     alt: "Neuroscience in the wild at Sea Life Brighton!"
