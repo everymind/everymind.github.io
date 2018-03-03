@@ -19,24 +19,17 @@ feature_row:
 
 {% include feature_row type="left" %}
 
-<h1> What is a mind for? </h1>
+<h1> What is a mind? </h1>
 
-<p> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems. You could say that a mind's purpose is to give us all of the abilities we need in order to "act intelligently", or to act with "cognitive competence".</p>
+<p> We know we have minds. We don't know exactly how they work, but we know enough to shape and surprise minds, and we know that minds are somehow related to brains and nervous systems, while also related to bodies, places, and histories. </p>
 
-<h1>So what is "intelligence", and why does it matter? </h1>
+<h1>How can we study minds? </h1>
 
-<p> We define intelligence as <b>the power of brains to predict the world.</b> This power helps us learn what to expect next. We use our expectations all the time by creating a model in our minds of "how things should work". This model is often called our "model of the world". So, we can think of intelligence as the power to build and adapt a "model of the world." <br/><br/>
+<p>We want to study minds "in the wild", or in situations and environments outside the traditional science lab. We want to collaborate with not only professional neuroscience researchers and clinicians, but also <b>artists, craftspersons, hospitality workers, teachers, parents, historians, animal trainers, chefs, philosophers, and engineers.</b> Together, we hope to share our observations of minds "in the wild", design experiments to both explore and rigorously probe these observations, and compare minds "in the wild" with minds in controlled, standardized environments. We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. <br/><br/>
 	
-You may have heard of other ways to define intelligence. Turns out, "intelligence" is an idea with a long and sometimes sordid history. To learn more, an excellent place to start is this Crash Course Psychology episode on the "Controversy of Intelligence": <br/><br/>
-<iframe width="460" src="https://www.youtube.com/embed/9xTz3QjcloI?ecver=1" frameborder="0" allowfullscreen></iframe>
+This is a bit different from how neuroscience research is traditionally done. Studies of human behaviour and minds are most often conducted in controlled, standardized environments with <b>10 to 50 participants</b>, and then generalized to conclude something about the "how" and "why" of natural behaviour in <b>all humans (around 8 billion humans!)</b>. We believe that such constrained environments and small datasets run a great risk of misleading our understanding of natural human behaviour. <br/><br/>
 
-<h1>How can we find the answers? </h1>
-
-<p>Studying brains is a challenge best met with many tools. We want to collaborate with not only professional science researchers, but also <b>artists, engineers, teachers, historians, clinicians, animal trainers, chefs, philosophers, parents, and children.</b> We believe that no one knows everything and that everyone knows something, and great value lies in sharing our experiences with each other in respectful and open dialogue. <br/><br/>
-	
-This is a bit different from how neuroscience research is traditionally done. Studies of human behaviour and minds are most often conducted inside laboratories with <b>10 to 50 participants</b>, and then generalized to conclude something about the behaviour of <b>all humans (around 8 billion humans!)</b>. We believe that such small datasets run a great risk of misleading our understanding of human behaviour. <br/><br/>
-
-So, <b>we want to bring these studies of behaviour out of the laboratory and "into the wild".</b> For humans, this means bringing our experiments to museums, zoos, aquariums, festivals, and marketplaces, where over 50 people per day can participate in our studies, discuss our hypotheses and results, and learn about cutting edge ideas and technologies for understanding minds. We want to then combine these real-world interactions with in-depth discussion and collaboration over the internet, to allow perspectives from many different locations and backgrounds to more easily converse and share insights. <br/><br/>
+So, <b>we want to bring these studies of behaviour out "into the wild".</b> For humans, this means bringing our experiments to museums, zoos, aquariums, festivals, and marketplaces, where over 50 people per day can participate in our studies, discuss our hypotheses and results, and learn about cutting edge ideas and technologies in a fun and playful context. We want to then combine these interactions with in-depth discussions and interdisciplinary analysis over the internet, to allow perspectives from many different locations and backgrounds to more easily converse and share insights. <br/><br/>
 
 We like to call this way of doing science a <b>massively multiplayer open scientific collaboration, or "MMOSC"</b>. But we didn't make up the idea! Open, collaborative science research projects, often referred to as "crowd science", "citizen science", "networked science", or "massively-collaborative science", have been around since the early 2000s. You can learn more about MMOSCs by reading "<a href="http://www.sciencedirect.com/science/article/pii/S0048733313001212">Crowd science: The organization of scientific research in open collaborative projects</a>", an article published in 2014 by Chiara Franzoni and Henry Sauermann. <br/><br/><br/></p>
 
