@@ -6,12 +6,12 @@ header:
   overlay_image: /assets/images/HampsteadHeath2017.jpg
 excerpt: "Studying brains and understanding minds is one of today's most exciting challenges. We want to get more brains involved in the study of brains, and more minds involved in understanding how minds of many shapes and sizes can co-exist. "
 feature_row:
-  - image_path: assets/images/SurprisingMinds-thumbnail.jpg
-    alt: "Neuroscience in the wild at Sea Life Brighton!"
-    title: "Surprising Minds"
-    excerpt: "During the summer of 2017, we prototyped a new way to ask scientific questions about behaviour and the mind with an interactive science exhibit at Sea Life Brighton! This is part of a larger effort to bring neuroscience experiments out of the lab and 'into the wild'. Now we're analyzing our initial data and working on exhibit version 2.0!"
-    url: /SurprisingMinds/
-    btn_label: "Learn More"
+  - image_path: assets/images/SurprisingMindsOnYouTube_thumbnail.jpg
+    alt: "Neuroscience in the wild in Regent's Park, London!"
+    title: "Surprising Minds on YouTube"
+    excerpt: "During the summer of 2018, we brought a human psychophysics experiment out of the lab and into the wild! We conducted an eye-tracking experiment in Regent's Park (Central London) and at the [2018 Greenbelt Festival](https://www.greenbelt.org.uk), during which we asked people to watch some of YouTube's most popular, non-music videos while we record their eyes up close. We will be giving a presentation of our study results and findings at the Sainsbury Wellcome Centre on Friday, 31 August 2018. This event is FREE and OPEN TO THE PUBLIC - if you would like to join us, please RSVP by clicking the button below!"
+    url: https://www.eventbrite.co.uk/e/surprising-minds-on-youtube-final-project-presentation-tickets-49478302936
+    btn_label: "Join us for the final project presentation!"
     btn_class: "btn--inverse"
 ---
 
