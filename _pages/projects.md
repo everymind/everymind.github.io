@@ -16,6 +16,10 @@ gallery:
     image_path: assets/images/SurprisingMinds-thumbnail.jpg
     alt: "Neuroscience in the wild at Sea Life Brighton!"
     caption: "Neuroscience in the wild at Sea Life Brighton!"
+  - url: /DearNeuroscience/
+    image_path: assets/images/DearNeuroscienceHeader.png
+    alt: "Dear Neuroscience"
+    caption: "An event series studying neural phenomena in the wild!"
   - url: /projects/rat-video-game/
     image_path: assets/images/Lory_ratVidGame_thumbnail.png
     alt: "Studying motor control using video games"
