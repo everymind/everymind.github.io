@@ -33,6 +33,6 @@ So, <b>we want to bring these studies of behaviour out "into the wild".</b> For 
 
 We like to call this way of doing science a <b>massively multiplayer open scientific collaboration, or "MMOSC"</b>. But we didn't make up the idea! Open, collaborative science research projects, often referred to as "crowd science", "citizen science", "networked science", or "massively-collaborative science", have been around since the early 2000s. You can learn more about MMOSCs by reading "<a href="http://www.sciencedirect.com/science/article/pii/S0048733313001212">Crowd science: The organization of scientific research in open collaborative projects</a>", an article published in 2014 by Chiara Franzoni and Henry Sauermann. <br/><br/><br/></p>
 
-<h1>Curious to learn more? Want to collaborate? </h1>
+<h1>Join us!</h1>
 
-<p>Get in touch by emailing danbee [at] danbeekim.org! </p>
+<p>Curious to learn more? Want to collaborate? <a href="mailto:everymindonline@protonmail.com">Send us an email</a> to get in touch! </p>
