@@ -10,7 +10,7 @@ categories:
 tags:
   - video game
   - rats
-  - Sainsbury-Wellcome Center
+  - Sainsbury Wellcome Center
 ---
 
-This is a project led by Lorenza Calcaterra, in the Kampff research group at the Sainsbury-Wellcome Center for Neural Circuits and Behavior. 
+This is a project led by Lorenza Calcaterra, a PhD Candidate in the Intelligent Systems Lab at the Sainsbury Wellcome Center for Neural Circuits and Behavior. Watch this space for more, coming soon!
