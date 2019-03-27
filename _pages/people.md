@@ -19,4 +19,4 @@ But the data we collected using these tools have overwhelmed our ability to anal
 
 ## Collaborate with us
 
-Many people contribute to the work showcased on EveryMind. You can too! If you would like to collaborate, please email danbee at danbeekim.org. 
+Many people contribute to the work showcased on EveryMind. You can too! **If you would like to collaborate, please [get in touch](mailto:everymindonline@protonmail.com)!**
