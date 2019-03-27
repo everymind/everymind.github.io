@@ -32,24 +32,3 @@ This is a bit different from how neuroscience research is traditionally done. St
 So, <b>we want to bring these studies of behaviour out "into the wild".</b> For humans, this means bringing our experiments to museums, zoos, aquariums, festivals, and marketplaces, where over 50 people per day can participate in our studies, discuss our hypotheses and results, and learn about cutting edge ideas and technologies in a fun and playful context. We want to then combine these interactions with in-depth discussions and interdisciplinary analysis over the internet, to allow perspectives from many different locations and backgrounds to more easily converse and share insights. <br/><br/>
 
 We like to call this way of doing science a <b>massively multiplayer open scientific collaboration, or "MMOSC"</b>. But we didn't make up the idea! Open, collaborative science research projects, often referred to as "crowd science", "citizen science", "networked science", or "massively-collaborative science", have been around since the early 2000s. You can learn more about MMOSCs by reading "<a href="http://www.sciencedirect.com/science/article/pii/S0048733313001212">Crowd science: The organization of scientific research in open collaborative projects</a>", an article published in 2014 by Chiara Franzoni and Henry Sauermann. <br/><br/><br/></p>
-
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#f2f2f2; clear:left; font:24px Oxygen,Helvetica,Arial,sans-serif; width:100%;}
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//online.us16.list-manage.com/subscribe/post?u=eb2472695fd6c8a6c2291c528&amp;id=322b339266" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to our newsletter for updates about the EveryMind community!</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_eb2472695fd6c8a6c2291c528_322b339266" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
